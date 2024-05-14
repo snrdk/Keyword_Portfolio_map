@@ -1,0 +1,2624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-01">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="int" />
+      <attribute id="1" title="centrality" type="double" />
+      <attribute id="2" title="betweenness_centrality" type="double" />
+      <attribute id="3" title="cluster_5" type="long" />
+      <attribute id="4" title="cluster_10" type="long" />
+      <attribute id="5" title="cluster_20" type="long" />
+    </attributes>
+    <nodes>
+      <node id="adr growth" label="adr growth">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="advertising" label="advertising">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="ai" label="ai">
+        <attvalues>
+          <attvalue for="0" value="149" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="amadeus" label="amadeus">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.10474040117286489" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="analytics" label="analytics">
+        <attvalues>
+          <attvalue for="0" value="242" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="artificial intelligence" label="artificial intelligence">
+        <attvalues>
+          <attvalue for="0" value="179" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="average daily rate (adr)" label="average daily rate (adr)">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="b2b marketing" label="b2b marketing">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.03632215772907101" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="benchmarking" label="benchmarking">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="booking engine" label="booking engine">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.28695078739475205" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="brand awareness" label="brand awareness">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.007441184245307957" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="business development" label="business development">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="business intelligence" label="business intelligence">
+        <attvalues>
+          <attvalue for="0" value="147" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="business transformation" label="business transformation">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.06666666666666667" />
+          <attvalue for="2" value="0.15229794876397817" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="cendyn" label="cendyn">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.0404088465944136" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="chat" label="chat">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="chatbots" label="chatbots">
+        <attvalues>
+          <attvalue for="0" value="67" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="chatgpt" label="chatgpt">
+        <attvalues>
+          <attvalue for="0" value="92" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.00018503832936822627" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="cloud" label="cloud">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.0036165429252148495" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="commercial real estate" label="commercial real estate">
+        <attvalues>
+          <attvalue for="0" value="135" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="3.9854409402387197e-05" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="communication" label="communication">
+        <attvalues>
+          <attvalue for="0" value="88" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="conference" label="conference">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="construction" label="construction">
+        <attvalues>
+          <attvalue for="0" value="112" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="consulting" label="consulting">
+        <attvalues>
+          <attvalue for="0" value="56" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="convention center" label="convention center">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.01332621662079767" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="csgp" label="csgp">
+        <attvalues>
+          <attvalue for="0" value="130" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="0.008843871228121615" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="customer engagement" label="customer engagement">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.06934552973101452" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="customer experience" label="customer experience">
+        <attvalues>
+          <attvalue for="0" value="153" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="customer feedback" label="customer feedback">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.08717948717948718" />
+          <attvalue for="2" value="0.009753264977115232" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="customer relationship management" label="customer relationship management">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="customer satisfaction" label="customer satisfaction">
+        <attvalues>
+          <attvalue for="0" value="70" />
+          <attvalue for="1" value="0.041025641025641026" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="customer success" label="customer success">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.003859209196243298" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="data" label="data">
+        <attvalues>
+          <attvalue for="0" value="99" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="data analytics" label="data analytics">
+        <attvalues>
+          <attvalue for="0" value="132" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="3.9854409402387197e-05" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="data benchmarking" label="data benchmarking">
+        <attvalues>
+          <attvalue for="0" value="123" />
+          <attvalue for="1" value="0.06666666666666667" />
+          <attvalue for="2" value="0.08055497383289015" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="data integration" label="data integration">
+        <attvalues>
+          <attvalue for="0" value="57" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="1.7622698035069167e-05" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="data science" label="data science">
+        <attvalues>
+          <attvalue for="0" value="57" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="3.5245396070138335e-05" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="data-driven marketing" label="data-driven marketing">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.0024795507447654542" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="demand" label="demand">
+        <attvalues>
+          <attvalue for="0" value="185" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="destinations" label="destinations">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="digital marketing" label="digital marketing">
+        <attvalues>
+          <attvalue for="0" value="130" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.005329876583548213" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="digital transformation" label="digital transformation">
+        <attvalues>
+          <attvalue for="0" value="131" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="direct booking" label="direct booking">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0020542026767007165" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="direct bookings" label="direct bookings">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.012486376042372866" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="distribution" label="distribution">
+        <attvalues>
+          <attvalue for="0" value="77" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="economic growth" label="economic growth">
+        <attvalues>
+          <attvalue for="0" value="113" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="economic impact" label="economic impact">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.06419136889102232" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="email" label="email">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="emea" label="emea">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="employment" label="employment">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.022019726215873593" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="energy efficiency" label="energy efficiency">
+        <attvalues>
+          <attvalue for="0" value="126" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="environmental impact" label="environmental impact">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="europe" label="europe">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="expertise" label="expertise">
+        <attvalues>
+          <attvalue for="0" value="67" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.002581725262137633" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="feasibility studies" label="feasibility studies">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.07445325137684182" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="feedback" label="feedback">
+        <attvalues>
+          <attvalue for="0" value="103" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="4.337894900940103e-05" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="fitness centre" label="fitness centre">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="future" label="future">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.020407084324610098" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="generative ai" label="generative ai">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="global economics" label="global economics">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="global economy" label="global economy">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="global hospitality" label="global hospitality">
+        <attvalues>
+          <attvalue for="0" value="83" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="global network" label="global network">
+        <attvalues>
+          <attvalue for="0" value="129" />
+          <attvalue for="1" value="0.06666666666666667" />
+          <attvalue for="2" value="0.0791611595735307" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="global operations" label="global operations">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="1.7622698035069167e-05" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="global tourism" label="global tourism">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.1342759556345963" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="google" label="google">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.0015048944945852169" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="group demand" label="group demand">
+        <attvalues>
+          <attvalue for="0" value="85" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="group travel" label="group travel">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="guest experience" label="guest experience">
+        <attvalues>
+          <attvalue for="0" value="234" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="guest feedback" label="guest feedback">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="0.08205128205128205" />
+          <attvalue for="2" value="0.006504655317123546" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="guest reviews" label="guest reviews">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.07692307692307693" />
+          <attvalue for="2" value="0.007664048351816129" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="guest satisfaction" label="guest satisfaction">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="guest service" label="guest service">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.04084739013273784" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="gx platform" label="gx platform">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="0.10256410256410256" />
+          <attvalue for="2" value="0.0830194620655525" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="holiday" label="holiday">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="hospitality business intelligence" label="hospitality business intelligence">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.09230769230769231" />
+          <attvalue for="2" value="0.05936272629265212" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="hospitality technology" label="hospitality technology">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.0098397364204147" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="hotel booking" label="hotel booking">
+        <attvalues>
+          <attvalue for="0" value="106" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0036704362135677156" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="hotel management system" label="hotel management system">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="0.08205128205128205" />
+          <attvalue for="2" value="0.028942089106524422" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="hotel market" label="hotel market">
+        <attvalues>
+          <attvalue for="0" value="122" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="hotel marketing" label="hotel marketing">
+        <attvalues>
+          <attvalue for="0" value="84" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="3.5245396070138335e-05" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="hotel marketing podcast" label="hotel marketing podcast">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.014940899525953307" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="hotel openings" label="hotel openings">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="3.5245396070138335e-05" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="hotel performance" label="hotel performance">
+        <attvalues>
+          <attvalue for="0" value="168" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="hotel pms" label="hotel pms">
+        <attvalues>
+          <attvalue for="0" value="64" />
+          <attvalue for="1" value="0.06666666666666667" />
+          <attvalue for="2" value="0.013446444588395421" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="hotel projects" label="hotel projects">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.009142770579110747" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="hotel property management" label="hotel property management">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.08717948717948718" />
+          <attvalue for="2" value="0.05131059872953371" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="hotel reservation" label="hotel reservation">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="hotel reservations" label="hotel reservations">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.010256410256410255" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="hotel revenue management" label="hotel revenue management">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.21932290105769991" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="hotel reviews" label="hotel reviews">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="0.08205128205128205" />
+          <attvalue for="2" value="0.01341170846072888" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="hotel sales" label="hotel sales">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="hotel search" label="hotel search">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.09230769230769231" />
+          <attvalue for="2" value="0.16365976015758543" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="hotel software" label="hotel software">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="hotel supply" label="hotel supply">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.00011895321173671692" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="hotel systems" label="hotel systems">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="0.09743589743589744" />
+          <attvalue for="2" value="0.05768961570099786" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="hotel technology" label="hotel technology">
+        <attvalues>
+          <attvalue for="0" value="224" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.050224689399947134" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="hotel transactions" label="hotel transactions">
+        <attvalues>
+          <attvalue for="0" value="57" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="hotel website" label="hotel website">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="0.07179487179487179" />
+          <attvalue for="2" value="0.2696473927130824" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="hvs market report" label="hvs market report">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.07077042292910017" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="instant response" label="instant response">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.11282051282051282" />
+          <attvalue for="2" value="0.167911680022298" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="integration" label="integration">
+        <attvalues>
+          <attvalue for="0" value="60" />
+          <attvalue for="1" value="0.06666666666666667" />
+          <attvalue for="2" value="0.011196391915942246" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="international arrivals" label="international arrivals">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.041025641025641026" />
+          <attvalue for="2" value="0.16580407752746648" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="international experts" label="international experts">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.08717948717948718" />
+          <attvalue for="2" value="0.05131059872953371" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="international headquarters" label="international headquarters">
+        <attvalues>
+          <attvalue for="0" value="130" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="0.008843871228121615" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="job creation" label="job creation">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.009993997076742431" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="job market" label="job market">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.0040761300555115" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="job search" label="job search">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.00616265750286368" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="jobs" label="jobs">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.022019726215873593" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="knowledge acquisition" label="knowledge acquisition">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.08143008194554588" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="lead generation" label="lead generation">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="leisure demand" label="leisure demand">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="machine learning" label="machine learning">
+        <attvalues>
+          <attvalue for="0" value="74" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="maestro" label="maestro">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="0.003547138125670569" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="market" label="market">
+        <attvalues>
+          <attvalue for="0" value="64" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="market intelligence" label="market intelligence">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.06666666666666667" />
+          <attvalue for="2" value="0.018387133535609976" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="market occupancy" label="market occupancy">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.07179487179487179" />
+          <attvalue for="2" value="0.2370019842832443" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="market share" label="market share">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="marketplace insights" label="marketplace insights">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.008170024012668134" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="markets" label="markets">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="media" label="media">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.007441184245307957" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="metaverse" label="metaverse">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="mobile" label="mobile">
+        <attvalues>
+          <attvalue for="0" value="62" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="mobile app" label="mobile app">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="mobility" label="mobility">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="multi-property" label="multi-property">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.09743589743589744" />
+          <attvalue for="2" value="0.05535236004098249" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="networking" label="networking">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.00024498455109081595" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="new york city" label="new york city">
+        <attvalues>
+          <attvalue for="0" value="68" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="newsletter" label="newsletter">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.02294475284166006" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="occupancy growth" label="occupancy growth">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.035897435897435895" />
+          <attvalue for="2" value="0.020638226480150876" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="occupancy level" label="occupancy level">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="0.041025641025641026" />
+          <attvalue for="2" value="0.017230144311764974" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="on-premises" label="on-premises">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.0036165429252148495" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="onboarding" label="onboarding">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="3.184673287766071e-05" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="online booking" label="online booking">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="online reviews" label="online reviews">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.012835273733723306" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="openai" label="openai">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="0.041025641025641026" />
+          <attvalue for="2" value="0.07007665873645257" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="ota" label="ota">
+        <attvalues>
+          <attvalue for="0" value="75" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="0.010856912785207716" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="ota insight" label="ota insight">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="0.08205128205128205" />
+          <attvalue for="2" value="0.04966355425933305" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="otainsight" label="otainsight">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.08717948717948718" />
+          <attvalue for="2" value="0.05131059872953371" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="otas" label="otas">
+        <attvalues>
+          <attvalue for="0" value="64" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.02305410810098255" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="parity intelligence" label="parity intelligence">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.08717948717948718" />
+          <attvalue for="2" value="0.05131059872953371" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="pipeline" label="pipeline">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="platform" label="platform">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="pms" label="pms">
+        <attvalues>
+          <attvalue for="0" value="102" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="6.605796781660941e-05" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="pre-pandemic levels" label="pre-pandemic levels">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.010256410256410258" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="pricing" label="pricing">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="0.041025641025641026" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="project" label="project">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="property management system" label="property management system">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="6.689220758353567e-05" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="real estate information" label="real estate information">
+        <attvalues>
+          <attvalue for="0" value="128" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="0.008843871228121615" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="region" label="region">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="renewable energy" label="renewable energy">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.010256410256410256" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="reservation" label="reservation">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.05297495329122879" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="revenue generation" label="revenue generation">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.29567697038735735" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="revenue intelligence" label="revenue intelligence">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.08717948717948718" />
+          <attvalue for="2" value="0.05131059872953371" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="revenue management" label="revenue management">
+        <attvalues>
+          <attvalue for="0" value="165" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="revenue per available room" label="revenue per available room">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="revenue per available room (revpar)" label="revenue per available room (revpar)">
+        <attvalues>
+          <attvalue for="0" value="137" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.003306842985891832" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="reviews" label="reviews">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.08205128205128205" />
+          <attvalue for="2" value="0.01833270638264496" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="roi" label="roi">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="rooms" label="rooms">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.03814234857538557" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+      <node id="san francisco" label="san francisco">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="7.753987135430435e-05" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="search engine" label="search engine">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0012079560943936483" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="search engine optimization" label="search engine optimization">
+        <attvalues>
+          <attvalue for="0" value="60" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.007957972133169212" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="seasonality" label="seasonality">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="self-service" label="self-service">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0005161223480018088" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="services" label="services">
+        <attvalues>
+          <attvalue for="0" value="88" />
+          <attvalue for="1" value="0.02564102564102564" />
+          <attvalue for="2" value="0.0024848004229447527" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="singapore" label="singapore">
+        <attvalues>
+          <attvalue for="0" value="61" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="software" label="software">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="storytelling" label="storytelling">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="str" label="str">
+        <attvalues>
+          <attvalue for="0" value="192" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="strategy" label="strategy">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="supply" label="supply">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.11706382114010863" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="support" label="support">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="0.041025641025641026" />
+          <attvalue for="2" value="0.00019693365054189796" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="survey" label="survey">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="sustainable tourism" label="sustainable tourism">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.030452022204599527" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="talent" label="talent">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="top 25 markets" label="top 25 markets">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.021815699451499165" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="training" label="training">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="transformation" label="transformation">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="transportation" label="transportation">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="travel &amp; tourism" label="travel &amp; tourism">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.04970850936857431" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="travel data" label="travel data">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.0023332040449857185" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="travel technology" label="travel technology">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.1293753776608822" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </node>
+      <node id="travelboom" label="travelboom">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.014940899525953307" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="traveler" label="traveler">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.09606298466039685" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="travelers" label="travelers">
+        <attvalues>
+          <attvalue for="0" value="88" />
+          <attvalue for="1" value="0.015384615384615385" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="trustyou" label="trustyou">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="0.07692307692307693" />
+          <attvalue for="2" value="0.004469821475622908" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="u.s. hotel performance" label="u.s. hotel performance">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="0.05641025641025641" />
+          <attvalue for="2" value="0.03562515301444076" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="user experience" label="user experience">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="0.010256410256410256" />
+          <attvalue for="2" value="0.05096390655536979" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="valuation" label="valuation">
+        <attvalues>
+          <attvalue for="0" value="123" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="valuation services" label="valuation services">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="0.03076923076923077" />
+          <attvalue for="2" value="0.002581725262137633" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="virtual reality" label="virtual reality">
+        <attvalues>
+          <attvalue for="0" value="93" />
+          <attvalue for="1" value="0.005128205128205128" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="weekday occupancy" label="weekday occupancy">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="0.05128205128205128" />
+          <attvalue for="2" value="0.04117215970367696" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="weekend occupancy" label="weekend occupancy">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="0.06153846153846154" />
+          <attvalue for="2" value="0.06163211212239228" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="wttc" label="wttc">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.046153846153846156" />
+          <attvalue for="2" value="0.03945209911216408" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="yoy" label="yoy">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.020512820512820513" />
+          <attvalue for="2" value="0.04630899352987642" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="adr growth" target="weekday occupancy" id="0" weight="1" />
+      <edge source="adr growth" target="weekend occupancy" id="1" weight="1" />
+      <edge source="advertising" target="brand awareness" id="2" weight="1" />
+      <edge source="advertising" target="media" id="3" weight="1" />
+      <edge source="ai" target="chatgpt" id="4" weight="1" />
+      <edge source="ai" target="generative ai" id="5" weight="1" />
+      <edge source="ai" target="machine learning" id="6" weight="1" />
+      <edge source="ai" target="openai" id="7" weight="1" />
+      <edge source="amadeus" target="future" id="8" weight="1" />
+      <edge source="amadeus" target="mobility" id="9" weight="1" />
+      <edge source="amadeus" target="travel technology" id="10" weight="1" />
+      <edge source="amadeus" target="traveler" id="11" weight="1" />
+      <edge source="analytics" target="hotel marketing podcast" id="12" weight="1" />
+      <edge source="analytics" target="travelboom" id="13" weight="1" />
+      <edge source="artificial intelligence" target="openai" id="14" weight="1" />
+      <edge source="average daily rate (adr)" target="revenue per available room (revpar)" id="15" weight="1" />
+      <edge source="average daily rate (adr)" target="weekday occupancy" id="16" weight="1" />
+      <edge source="average daily rate (adr)" target="weekend occupancy" id="17" weight="1" />
+      <edge source="b2b marketing" target="brand awareness" id="18" weight="1" />
+      <edge source="b2b marketing" target="customer engagement" id="19" weight="1" />
+      <edge source="b2b marketing" target="hotel software" id="20" weight="1" />
+      <edge source="b2b marketing" target="knowledge acquisition" id="21" weight="1" />
+      <edge source="b2b marketing" target="lead generation" id="22" weight="1" />
+      <edge source="b2b marketing" target="media" id="23" weight="1" />
+      <edge source="b2b marketing" target="roi" id="24" weight="1" />
+      <edge source="b2b marketing" target="strategy" id="25" weight="1" />
+      <edge source="b2b marketing" target="travel technology" id="26" weight="1" />
+      <edge source="benchmarking" target="csgp" id="27" weight="1" />
+      <edge source="benchmarking" target="international headquarters" id="28" weight="1" />
+      <edge source="benchmarking" target="marketplace insights" id="29" weight="1" />
+      <edge source="benchmarking" target="real estate information" id="30" weight="1" />
+      <edge source="benchmarking" target="u.s. hotel performance" id="31" weight="1" />
+      <edge source="booking engine" target="business development" id="32" weight="1" />
+      <edge source="booking engine" target="business transformation" id="33" weight="1" />
+      <edge source="booking engine" target="customer success" id="34" weight="1" />
+      <edge source="booking engine" target="hospitality technology" id="35" weight="1" />
+      <edge source="booking engine" target="hotel management system" id="36" weight="1" />
+      <edge source="booking engine" target="hotel systems" id="37" weight="1" />
+      <edge source="booking engine" target="integration" id="38" weight="1" />
+      <edge source="booking engine" target="multi-property" id="39" weight="1" />
+      <edge source="booking engine" target="networking" id="40" weight="1" />
+      <edge source="booking engine" target="revenue generation" id="41" weight="1" />
+      <edge source="booking engine" target="support" id="42" weight="1" />
+      <edge source="booking engine" target="user experience" id="43" weight="1" />
+      <edge source="brand awareness" target="customer engagement" id="44" weight="1" />
+      <edge source="brand awareness" target="knowledge acquisition" id="45" weight="1" />
+      <edge source="brand awareness" target="media" id="46" weight="1" />
+      <edge source="brand awareness" target="strategy" id="47" weight="1" />
+      <edge source="brand awareness" target="travel technology" id="48" weight="1" />
+      <edge source="business development" target="business transformation" id="49" weight="1" />
+      <edge source="business development" target="customer success" id="50" weight="1" />
+      <edge source="business development" target="hotel management system" id="51" weight="1" />
+      <edge source="business development" target="hotel systems" id="52" weight="1" />
+      <edge source="business development" target="multi-property" id="53" weight="1" />
+      <edge source="business development" target="networking" id="54" weight="1" />
+      <edge source="business intelligence" target="hospitality business intelligence" id="55" weight="1" />
+      <edge source="business intelligence" target="hotel property management" id="56" weight="1" />
+      <edge source="business intelligence" target="international experts" id="57" weight="1" />
+      <edge source="business intelligence" target="ota insight" id="58" weight="1" />
+      <edge source="business intelligence" target="otainsight" id="59" weight="1" />
+      <edge source="business intelligence" target="parity intelligence" id="60" weight="1" />
+      <edge source="business intelligence" target="revenue intelligence" id="61" weight="1" />
+      <edge source="business transformation" target="customer engagement" id="62" weight="1" />
+      <edge source="business transformation" target="customer success" id="63" weight="1" />
+      <edge source="business transformation" target="hospitality technology" id="64" weight="1" />
+      <edge source="business transformation" target="hotel management system" id="65" weight="1" />
+      <edge source="business transformation" target="hotel systems" id="66" weight="1" />
+      <edge source="business transformation" target="multi-property" id="67" weight="1" />
+      <edge source="business transformation" target="networking" id="68" weight="1" />
+      <edge source="business transformation" target="storytelling" id="69" weight="1" />
+      <edge source="business transformation" target="support" id="70" weight="1" />
+      <edge source="business transformation" target="transformation" id="71" weight="1" />
+      <edge source="business transformation" target="travel technology" id="72" weight="1" />
+      <edge source="cendyn" target="customer relationship management" id="73" weight="1" />
+      <edge source="cendyn" target="data integration" id="74" weight="1" />
+      <edge source="cendyn" target="digital transformation" id="75" weight="1" />
+      <edge source="cendyn" target="global operations" id="76" weight="1" />
+      <edge source="cendyn" target="hotel technology" id="77" weight="1" />
+      <edge source="chat" target="chatgpt" id="78" weight="1" />
+      <edge source="chat" target="openai" id="79" weight="1" />
+      <edge source="chatbots" target="chatgpt" id="80" weight="1" />
+      <edge source="chatbots" target="openai" id="81" weight="1" />
+      <edge source="chatgpt" target="generative ai" id="82" weight="1" />
+      <edge source="chatgpt" target="machine learning" id="83" weight="1" />
+      <edge source="chatgpt" target="openai" id="84" weight="1" />
+      <edge source="cloud" target="hotel management system" id="85" weight="1" />
+      <edge source="cloud" target="hotel pms" id="86" weight="1" />
+      <edge source="cloud" target="hotel systems" id="87" weight="1" />
+      <edge source="cloud" target="integration" id="88" weight="1" />
+      <edge source="cloud" target="maestro" id="89" weight="1" />
+      <edge source="cloud" target="mobile" id="90" weight="1" />
+      <edge source="cloud" target="multi-property" id="91" weight="1" />
+      <edge source="cloud" target="on-premises" id="92" weight="1" />
+      <edge source="cloud" target="onboarding" id="93" weight="1" />
+      <edge source="cloud" target="platform" id="94" weight="1" />
+      <edge source="cloud" target="pms" id="95" weight="1" />
+      <edge source="cloud" target="property management system" id="96" weight="1" />
+      <edge source="commercial real estate" target="csgp" id="97" weight="1" />
+      <edge source="commercial real estate" target="data analytics" id="98" weight="1" />
+      <edge source="commercial real estate" target="international headquarters" id="99" weight="1" />
+      <edge source="commercial real estate" target="marketplace insights" id="100" weight="1" />
+      <edge source="commercial real estate" target="occupancy level" id="101" weight="1" />
+      <edge source="commercial real estate" target="real estate information" id="102" weight="1" />
+      <edge source="communication" target="customer feedback" id="103" weight="1" />
+      <edge source="communication" target="gx platform" id="104" weight="1" />
+      <edge source="communication" target="instant response" id="105" weight="1" />
+      <edge source="conference" target="guest service" id="106" weight="1" />
+      <edge source="construction" target="hotel openings" id="107" weight="1" />
+      <edge source="construction" target="hotel projects" id="108" weight="1" />
+      <edge source="construction" target="project" id="109" weight="1" />
+      <edge source="construction" target="rooms" id="110" weight="1" />
+      <edge source="consulting" target="feasibility studies" id="111" weight="1" />
+      <edge source="consulting" target="hotel supply" id="112" weight="1" />
+      <edge source="consulting" target="hvs market report" id="113" weight="1" />
+      <edge source="convention center" target="feasibility studies" id="114" weight="1" />
+      <edge source="convention center" target="hotel projects" id="115" weight="1" />
+      <edge source="convention center" target="hotel supply" id="116" weight="1" />
+      <edge source="convention center" target="hvs market report" id="117" weight="1" />
+      <edge source="csgp" target="data analytics" id="118" weight="1" />
+      <edge source="csgp" target="data benchmarking" id="119" weight="1" />
+      <edge source="csgp" target="global hospitality" id="120" weight="1" />
+      <edge source="csgp" target="international headquarters" id="121" weight="1" />
+      <edge source="csgp" target="marketplace insights" id="122" weight="1" />
+      <edge source="csgp" target="occupancy level" id="123" weight="1" />
+      <edge source="csgp" target="real estate information" id="124" weight="1" />
+      <edge source="csgp" target="str" id="125" weight="1" />
+      <edge source="csgp" target="u.s. hotel performance" id="126" weight="1" />
+      <edge source="customer engagement" target="knowledge acquisition" id="127" weight="1" />
+      <edge source="customer engagement" target="lead generation" id="128" weight="1" />
+      <edge source="customer engagement" target="media" id="129" weight="1" />
+      <edge source="customer engagement" target="storytelling" id="130" weight="1" />
+      <edge source="customer engagement" target="transformation" id="131" weight="1" />
+      <edge source="customer engagement" target="travel technology" id="132" weight="1" />
+      <edge source="customer experience" target="customer feedback" id="133" weight="1" />
+      <edge source="customer experience" target="guest feedback" id="134" weight="1" />
+      <edge source="customer experience" target="guest reviews" id="135" weight="1" />
+      <edge source="customer experience" target="gx platform" id="136" weight="1" />
+      <edge source="customer experience" target="hotel reviews" id="137" weight="1" />
+      <edge source="customer experience" target="instant response" id="138" weight="1" />
+      <edge source="customer experience" target="trustyou" id="139" weight="1" />
+      <edge source="customer feedback" target="customer satisfaction" id="140" weight="1" />
+      <edge source="customer feedback" target="emea" id="141" weight="1" />
+      <edge source="customer feedback" target="feedback" id="142" weight="1" />
+      <edge source="customer feedback" target="guest feedback" id="143" weight="1" />
+      <edge source="customer feedback" target="guest reviews" id="144" weight="1" />
+      <edge source="customer feedback" target="guest satisfaction" id="145" weight="1" />
+      <edge source="customer feedback" target="gx platform" id="146" weight="1" />
+      <edge source="customer feedback" target="hotel reviews" id="147" weight="1" />
+      <edge source="customer feedback" target="instant response" id="148" weight="1" />
+      <edge source="customer feedback" target="online reviews" id="149" weight="1" />
+      <edge source="customer feedback" target="reviews" id="150" weight="1" />
+      <edge source="customer feedback" target="travel data" id="151" weight="1" />
+      <edge source="customer feedback" target="traveler" id="152" weight="1" />
+      <edge source="customer feedback" target="travelers" id="153" weight="1" />
+      <edge source="customer feedback" target="trustyou" id="154" weight="1" />
+      <edge source="customer relationship management" target="data integration" id="155" weight="1" />
+      <edge source="customer relationship management" target="global operations" id="156" weight="1" />
+      <edge source="customer satisfaction" target="guest feedback" id="157" weight="1" />
+      <edge source="customer satisfaction" target="guest reviews" id="158" weight="1" />
+      <edge source="customer satisfaction" target="gx platform" id="159" weight="1" />
+      <edge source="customer satisfaction" target="hotel reviews" id="160" weight="1" />
+      <edge source="customer satisfaction" target="instant response" id="161" weight="1" />
+      <edge source="customer satisfaction" target="reviews" id="162" weight="1" />
+      <edge source="customer satisfaction" target="trustyou" id="163" weight="1" />
+      <edge source="customer success" target="hospitality technology" id="164" weight="1" />
+      <edge source="customer success" target="hotel management system" id="165" weight="1" />
+      <edge source="customer success" target="hotel systems" id="166" weight="1" />
+      <edge source="customer success" target="integration" id="167" weight="1" />
+      <edge source="customer success" target="multi-property" id="168" weight="1" />
+      <edge source="customer success" target="networking" id="169" weight="1" />
+      <edge source="customer success" target="pms" id="170" weight="1" />
+      <edge source="customer success" target="property management system" id="171" weight="1" />
+      <edge source="customer success" target="support" id="172" weight="1" />
+      <edge source="data" target="instant response" id="173" weight="1" />
+      <edge source="data analytics" target="international headquarters" id="174" weight="1" />
+      <edge source="data analytics" target="marketplace insights" id="175" weight="1" />
+      <edge source="data analytics" target="occupancy level" id="176" weight="1" />
+      <edge source="data analytics" target="real estate information" id="177" weight="1" />
+      <edge source="data benchmarking" target="hospitality business intelligence" id="178" weight="1" />
+      <edge source="data benchmarking" target="hotel property management" id="179" weight="1" />
+      <edge source="data benchmarking" target="international experts" id="180" weight="1" />
+      <edge source="data benchmarking" target="international headquarters" id="181" weight="1" />
+      <edge source="data benchmarking" target="market intelligence" id="182" weight="1" />
+      <edge source="data benchmarking" target="marketplace insights" id="183" weight="1" />
+      <edge source="data benchmarking" target="ota insight" id="184" weight="1" />
+      <edge source="data benchmarking" target="otainsight" id="185" weight="1" />
+      <edge source="data benchmarking" target="parity intelligence" id="186" weight="1" />
+      <edge source="data benchmarking" target="real estate information" id="187" weight="1" />
+      <edge source="data benchmarking" target="revenue intelligence" id="188" weight="1" />
+      <edge source="data benchmarking" target="u.s. hotel performance" id="189" weight="1" />
+      <edge source="data integration" target="digital transformation" id="190" weight="1" />
+      <edge source="data integration" target="global operations" id="191" weight="1" />
+      <edge source="data science" target="data-driven marketing" id="192" weight="1" />
+      <edge source="data science" target="digital marketing" id="193" weight="1" />
+      <edge source="data science" target="direct bookings" id="194" weight="1" />
+      <edge source="data science" target="hotel marketing" id="195" weight="1" />
+      <edge source="data science" target="hotel marketing podcast" id="196" weight="1" />
+      <edge source="data science" target="travelboom" id="197" weight="1" />
+      <edge source="data-driven marketing" target="digital marketing" id="198" weight="1" />
+      <edge source="data-driven marketing" target="direct bookings" id="199" weight="1" />
+      <edge source="data-driven marketing" target="hotel marketing" id="200" weight="1" />
+      <edge source="data-driven marketing" target="hotel marketing podcast" id="201" weight="1" />
+      <edge source="data-driven marketing" target="hotel search" id="202" weight="1" />
+      <edge source="data-driven marketing" target="travelboom" id="203" weight="1" />
+      <edge source="demand" target="supply" id="204" weight="1" />
+      <edge source="destinations" target="pre-pandemic levels" id="205" weight="1" />
+      <edge source="digital marketing" target="hotel marketing" id="206" weight="1" />
+      <edge source="digital marketing" target="hotel marketing podcast" id="207" weight="1" />
+      <edge source="digital marketing" target="hotel website" id="208" weight="1" />
+      <edge source="digital marketing" target="travelboom" id="209" weight="1" />
+      <edge source="digital transformation" target="global operations" id="210" weight="1" />
+      <edge source="direct booking" target="direct bookings" id="211" weight="1" />
+      <edge source="direct booking" target="hotel booking" id="212" weight="1" />
+      <edge source="direct booking" target="online booking" id="213" weight="1" />
+      <edge source="direct booking" target="otas" id="214" weight="1" />
+      <edge source="direct bookings" target="hotel marketing" id="215" weight="1" />
+      <edge source="direct bookings" target="hotel marketing podcast" id="216" weight="1" />
+      <edge source="direct bookings" target="hotel search" id="217" weight="1" />
+      <edge source="direct bookings" target="online booking" id="218" weight="1" />
+      <edge source="direct bookings" target="ota" id="219" weight="1" />
+      <edge source="direct bookings" target="otas" id="220" weight="1" />
+      <edge source="direct bookings" target="travelboom" id="221" weight="1" />
+      <edge source="distribution" target="hospitality business intelligence" id="222" weight="1" />
+      <edge source="distribution" target="hotel property management" id="223" weight="1" />
+      <edge source="distribution" target="international experts" id="224" weight="1" />
+      <edge source="distribution" target="ota insight" id="225" weight="1" />
+      <edge source="distribution" target="otainsight" id="226" weight="1" />
+      <edge source="distribution" target="parity intelligence" id="227" weight="1" />
+      <edge source="distribution" target="revenue intelligence" id="228" weight="1" />
+      <edge source="economic growth" target="travel &amp; tourism" id="229" weight="1" />
+      <edge source="economic impact" target="employment" id="230" weight="1" />
+      <edge source="economic impact" target="hvs market report" id="231" weight="1" />
+      <edge source="economic impact" target="job creation" id="232" weight="1" />
+      <edge source="economic impact" target="jobs" id="233" weight="1" />
+      <edge source="economic impact" target="travel &amp; tourism" id="234" weight="1" />
+      <edge source="economic impact" target="wttc" id="235" weight="1" />
+      <edge source="email" target="lead generation" id="236" weight="1" />
+      <edge source="emea" target="guest feedback" id="237" weight="1" />
+      <edge source="emea" target="guest reviews" id="238" weight="1" />
+      <edge source="emea" target="gx platform" id="239" weight="1" />
+      <edge source="emea" target="hotel reviews" id="240" weight="1" />
+      <edge source="emea" target="instant response" id="241" weight="1" />
+      <edge source="emea" target="reviews" id="242" weight="1" />
+      <edge source="emea" target="travel data" id="243" weight="1" />
+      <edge source="emea" target="trustyou" id="244" weight="1" />
+      <edge source="employment" target="global tourism" id="245" weight="1" />
+      <edge source="employment" target="job creation" id="246" weight="1" />
+      <edge source="employment" target="job market" id="247" weight="1" />
+      <edge source="employment" target="job search" id="248" weight="1" />
+      <edge source="employment" target="jobs" id="249" weight="1" />
+      <edge source="employment" target="transportation" id="250" weight="1" />
+      <edge source="employment" target="travel &amp; tourism" id="251" weight="1" />
+      <edge source="employment" target="wttc" id="252" weight="1" />
+      <edge source="energy efficiency" target="renewable energy" id="253" weight="1" />
+      <edge source="environmental impact" target="renewable energy" id="254" weight="1" />
+      <edge source="environmental impact" target="sustainable tourism" id="255" weight="1" />
+      <edge source="europe" target="international arrivals" id="256" weight="1" />
+      <edge source="expertise" target="global network" id="257" weight="1" />
+      <edge source="expertise" target="hotel transactions" id="258" weight="1" />
+      <edge source="expertise" target="newsletter" id="259" weight="1" />
+      <edge source="expertise" target="services" id="260" weight="1" />
+      <edge source="expertise" target="valuation" id="261" weight="1" />
+      <edge source="expertise" target="valuation services" id="262" weight="1" />
+      <edge source="feasibility studies" target="hotel supply" id="263" weight="1" />
+      <edge source="feasibility studies" target="hvs market report" id="264" weight="1" />
+      <edge source="feasibility studies" target="supply" id="265" weight="1" />
+      <edge source="feedback" target="guest feedback" id="266" weight="1" />
+      <edge source="feedback" target="guest reviews" id="267" weight="1" />
+      <edge source="feedback" target="guest satisfaction" id="268" weight="1" />
+      <edge source="feedback" target="gx platform" id="269" weight="1" />
+      <edge source="feedback" target="hotel reviews" id="270" weight="1" />
+      <edge source="feedback" target="instant response" id="271" weight="1" />
+      <edge source="feedback" target="online reviews" id="272" weight="1" />
+      <edge source="feedback" target="reviews" id="273" weight="1" />
+      <edge source="feedback" target="travel data" id="274" weight="1" />
+      <edge source="feedback" target="trustyou" id="275" weight="1" />
+      <edge source="fitness centre" target="newsletter" id="276" weight="1" />
+      <edge source="future" target="metaverse" id="277" weight="1" />
+      <edge source="generative ai" target="machine learning" id="278" weight="1" />
+      <edge source="generative ai" target="openai" id="279" weight="1" />
+      <edge source="global economics" target="global economy" id="280" weight="1" />
+      <edge source="global economy" target="travel &amp; tourism" id="281" weight="1" />
+      <edge source="global economy" target="wttc" id="282" weight="1" />
+      <edge source="global hospitality" target="international headquarters" id="283" weight="1" />
+      <edge source="global hospitality" target="marketplace insights" id="284" weight="1" />
+      <edge source="global hospitality" target="real estate information" id="285" weight="1" />
+      <edge source="global hospitality" target="u.s. hotel performance" id="286" weight="1" />
+      <edge source="global network" target="hospitality business intelligence" id="287" weight="1" />
+      <edge source="global network" target="hotel property management" id="288" weight="1" />
+      <edge source="global network" target="hotel transactions" id="289" weight="1" />
+      <edge source="global network" target="international experts" id="290" weight="1" />
+      <edge source="global network" target="market intelligence" id="291" weight="1" />
+      <edge source="global network" target="newsletter" id="292" weight="1" />
+      <edge source="global network" target="ota insight" id="293" weight="1" />
+      <edge source="global network" target="otainsight" id="294" weight="1" />
+      <edge source="global network" target="parity intelligence" id="295" weight="1" />
+      <edge source="global network" target="revenue intelligence" id="296" weight="1" />
+      <edge source="global network" target="services" id="297" weight="1" />
+      <edge source="global network" target="valuation services" id="298" weight="1" />
+      <edge source="global tourism" target="international arrivals" id="299" weight="1" />
+      <edge source="global tourism" target="job creation" id="300" weight="1" />
+      <edge source="global tourism" target="jobs" id="301" weight="1" />
+      <edge source="global tourism" target="travel &amp; tourism" id="302" weight="1" />
+      <edge source="global tourism" target="wttc" id="303" weight="1" />
+      <edge source="google" target="hotel reviews" id="304" weight="1" />
+      <edge source="google" target="hotel website" id="305" weight="1" />
+      <edge source="google" target="instant response" id="306" weight="1" />
+      <edge source="google" target="reviews" id="307" weight="1" />
+      <edge source="google" target="search engine" id="308" weight="1" />
+      <edge source="google" target="search engine optimization" id="309" weight="1" />
+      <edge source="group demand" target="leisure demand" id="310" weight="1" />
+      <edge source="group demand" target="occupancy growth" id="311" weight="1" />
+      <edge source="group demand" target="supply" id="312" weight="1" />
+      <edge source="group demand" target="weekday occupancy" id="313" weight="1" />
+      <edge source="group demand" target="weekend occupancy" id="314" weight="1" />
+      <edge source="group travel" target="occupancy growth" id="315" weight="1" />
+      <edge source="guest experience" target="guest feedback" id="316" weight="1" />
+      <edge source="guest experience" target="gx platform" id="317" weight="1" />
+      <edge source="guest feedback" target="guest reviews" id="318" weight="1" />
+      <edge source="guest feedback" target="guest satisfaction" id="319" weight="1" />
+      <edge source="guest feedback" target="gx platform" id="320" weight="1" />
+      <edge source="guest feedback" target="hotel reviews" id="321" weight="1" />
+      <edge source="guest feedback" target="instant response" id="322" weight="1" />
+      <edge source="guest feedback" target="international arrivals" id="323" weight="1" />
+      <edge source="guest feedback" target="online reviews" id="324" weight="1" />
+      <edge source="guest feedback" target="reviews" id="325" weight="1" />
+      <edge source="guest feedback" target="travel data" id="326" weight="1" />
+      <edge source="guest feedback" target="trustyou" id="327" weight="1" />
+      <edge source="guest reviews" target="guest satisfaction" id="328" weight="1" />
+      <edge source="guest reviews" target="gx platform" id="329" weight="1" />
+      <edge source="guest reviews" target="hotel reviews" id="330" weight="1" />
+      <edge source="guest reviews" target="instant response" id="331" weight="1" />
+      <edge source="guest reviews" target="online reviews" id="332" weight="1" />
+      <edge source="guest reviews" target="reviews" id="333" weight="1" />
+      <edge source="guest reviews" target="travel data" id="334" weight="1" />
+      <edge source="guest reviews" target="traveler" id="335" weight="1" />
+      <edge source="guest reviews" target="trustyou" id="336" weight="1" />
+      <edge source="guest satisfaction" target="gx platform" id="337" weight="1" />
+      <edge source="guest satisfaction" target="hotel reviews" id="338" weight="1" />
+      <edge source="guest satisfaction" target="instant response" id="339" weight="1" />
+      <edge source="guest satisfaction" target="reviews" id="340" weight="1" />
+      <edge source="guest satisfaction" target="travel data" id="341" weight="1" />
+      <edge source="guest satisfaction" target="trustyou" id="342" weight="1" />
+      <edge source="guest service" target="hotel management system" id="343" weight="1" />
+      <edge source="guest service" target="hotel pms" id="344" weight="1" />
+      <edge source="guest service" target="hotel sales" id="345" weight="1" />
+      <edge source="guest service" target="reservation" id="346" weight="1" />
+      <edge source="guest service" target="self-service" id="347" weight="1" />
+      <edge source="guest service" target="training" id="348" weight="1" />
+      <edge source="gx platform" target="hotel reviews" id="349" weight="1" />
+      <edge source="gx platform" target="hotel website" id="350" weight="1" />
+      <edge source="gx platform" target="instant response" id="351" weight="1" />
+      <edge source="gx platform" target="international arrivals" id="352" weight="1" />
+      <edge source="gx platform" target="online reviews" id="353" weight="1" />
+      <edge source="gx platform" target="reviews" id="354" weight="1" />
+      <edge source="gx platform" target="survey" id="355" weight="1" />
+      <edge source="gx platform" target="travel data" id="356" weight="1" />
+      <edge source="gx platform" target="travelers" id="357" weight="1" />
+      <edge source="gx platform" target="trustyou" id="358" weight="1" />
+      <edge source="holiday" target="weekend occupancy" id="359" weight="1" />
+      <edge source="hospitality business intelligence" target="hotel booking" id="360" weight="1" />
+      <edge source="hospitality business intelligence" target="hotel property management" id="361" weight="1" />
+      <edge source="hospitality business intelligence" target="hotel revenue management" id="362" weight="1" />
+      <edge source="hospitality business intelligence" target="hotel search" id="363" weight="1" />
+      <edge source="hospitality business intelligence" target="international experts" id="364" weight="1" />
+      <edge source="hospitality business intelligence" target="market intelligence" id="365" weight="1" />
+      <edge source="hospitality business intelligence" target="market occupancy" id="366" weight="1" />
+      <edge source="hospitality business intelligence" target="ota" id="367" weight="1" />
+      <edge source="hospitality business intelligence" target="ota insight" id="368" weight="1" />
+      <edge source="hospitality business intelligence" target="otainsight" id="369" weight="1" />
+      <edge source="hospitality business intelligence" target="parity intelligence" id="370" weight="1" />
+      <edge source="hospitality business intelligence" target="pricing" id="371" weight="1" />
+      <edge source="hospitality business intelligence" target="revenue intelligence" id="372" weight="1" />
+      <edge source="hospitality business intelligence" target="seasonality" id="373" weight="1" />
+      <edge source="hospitality technology" target="hotel management system" id="374" weight="1" />
+      <edge source="hospitality technology" target="hotel pms" id="375" weight="1" />
+      <edge source="hospitality technology" target="hotel systems" id="376" weight="1" />
+      <edge source="hospitality technology" target="integration" id="377" weight="1" />
+      <edge source="hospitality technology" target="multi-property" id="378" weight="1" />
+      <edge source="hospitality technology" target="networking" id="379" weight="1" />
+      <edge source="hospitality technology" target="onboarding" id="380" weight="1" />
+      <edge source="hospitality technology" target="property management system" id="381" weight="1" />
+      <edge source="hospitality technology" target="support" id="382" weight="1" />
+      <edge source="hotel booking" target="hotel search" id="383" weight="1" />
+      <edge source="hotel management system" target="hotel pms" id="384" weight="1" />
+      <edge source="hotel management system" target="hotel systems" id="385" weight="1" />
+      <edge source="hotel management system" target="integration" id="386" weight="1" />
+      <edge source="hotel management system" target="maestro" id="387" weight="1" />
+      <edge source="hotel management system" target="multi-property" id="388" weight="1" />
+      <edge source="hotel management system" target="networking" id="389" weight="1" />
+      <edge source="hotel management system" target="on-premises" id="390" weight="1" />
+      <edge source="hotel management system" target="pms" id="391" weight="1" />
+      <edge source="hotel management system" target="property management system" id="392" weight="1" />
+      <edge source="hotel market" target="hvs market report" id="393" weight="1" />
+      <edge source="hotel marketing" target="hotel marketing podcast" id="394" weight="1" />
+      <edge source="hotel marketing" target="travelboom" id="395" weight="1" />
+      <edge source="hotel marketing podcast" target="hotel search" id="396" weight="1" />
+      <edge source="hotel marketing podcast" target="hotel website" id="397" weight="1" />
+      <edge source="hotel marketing podcast" target="travelboom" id="398" weight="1" />
+      <edge source="hotel openings" target="hotel projects" id="399" weight="1" />
+      <edge source="hotel openings" target="pipeline" id="400" weight="1" />
+      <edge source="hotel openings" target="project" id="401" weight="1" />
+      <edge source="hotel openings" target="rooms" id="402" weight="1" />
+      <edge source="hotel performance" target="u.s. hotel performance" id="403" weight="1" />
+      <edge source="hotel pms" target="hotel systems" id="404" weight="1" />
+      <edge source="hotel pms" target="integration" id="405" weight="1" />
+      <edge source="hotel pms" target="maestro" id="406" weight="1" />
+      <edge source="hotel pms" target="mobile app" id="407" weight="1" />
+      <edge source="hotel pms" target="multi-property" id="408" weight="1" />
+      <edge source="hotel pms" target="on-premises" id="409" weight="1" />
+      <edge source="hotel pms" target="platform" id="410" weight="1" />
+      <edge source="hotel pms" target="pms" id="411" weight="1" />
+      <edge source="hotel pms" target="property management system" id="412" weight="1" />
+      <edge source="hotel projects" target="pipeline" id="413" weight="1" />
+      <edge source="hotel projects" target="project" id="414" weight="1" />
+      <edge source="hotel projects" target="rooms" id="415" weight="1" />
+      <edge source="hotel property management" target="hotel revenue management" id="416" weight="1" />
+      <edge source="hotel property management" target="hotel search" id="417" weight="1" />
+      <edge source="hotel property management" target="international experts" id="418" weight="1" />
+      <edge source="hotel property management" target="market intelligence" id="419" weight="1" />
+      <edge source="hotel property management" target="market occupancy" id="420" weight="1" />
+      <edge source="hotel property management" target="ota" id="421" weight="1" />
+      <edge source="hotel property management" target="ota insight" id="422" weight="1" />
+      <edge source="hotel property management" target="otainsight" id="423" weight="1" />
+      <edge source="hotel property management" target="parity intelligence" id="424" weight="1" />
+      <edge source="hotel property management" target="pricing" id="425" weight="1" />
+      <edge source="hotel property management" target="revenue intelligence" id="426" weight="1" />
+      <edge source="hotel property management" target="seasonality" id="427" weight="1" />
+      <edge source="hotel reservation" target="hotel reservations" id="428" weight="1" />
+      <edge source="hotel reservations" target="reservation" id="429" weight="1" />
+      <edge source="hotel revenue management" target="international experts" id="430" weight="1" />
+      <edge source="hotel revenue management" target="market intelligence" id="431" weight="1" />
+      <edge source="hotel revenue management" target="ota insight" id="432" weight="1" />
+      <edge source="hotel revenue management" target="otainsight" id="433" weight="1" />
+      <edge source="hotel revenue management" target="parity intelligence" id="434" weight="1" />
+      <edge source="hotel revenue management" target="revenue generation" id="435" weight="1" />
+      <edge source="hotel revenue management" target="revenue intelligence" id="436" weight="1" />
+      <edge source="hotel revenue management" target="revenue management" id="437" weight="1" />
+      <edge source="hotel reviews" target="hotel website" id="438" weight="1" />
+      <edge source="hotel reviews" target="instant response" id="439" weight="1" />
+      <edge source="hotel reviews" target="online reviews" id="440" weight="1" />
+      <edge source="hotel reviews" target="reviews" id="441" weight="1" />
+      <edge source="hotel reviews" target="travel data" id="442" weight="1" />
+      <edge source="hotel reviews" target="trustyou" id="443" weight="1" />
+      <edge source="hotel search" target="hotel website" id="444" weight="1" />
+      <edge source="hotel search" target="international experts" id="445" weight="1" />
+      <edge source="hotel search" target="market intelligence" id="446" weight="1" />
+      <edge source="hotel search" target="ota" id="447" weight="1" />
+      <edge source="hotel search" target="ota insight" id="448" weight="1" />
+      <edge source="hotel search" target="otainsight" id="449" weight="1" />
+      <edge source="hotel search" target="otas" id="450" weight="1" />
+      <edge source="hotel search" target="parity intelligence" id="451" weight="1" />
+      <edge source="hotel search" target="revenue intelligence" id="452" weight="1" />
+      <edge source="hotel search" target="search engine" id="453" weight="1" />
+      <edge source="hotel search" target="search engine optimization" id="454" weight="1" />
+      <edge source="hotel search" target="travelboom" id="455" weight="1" />
+      <edge source="hotel software" target="software" id="456" weight="1" />
+      <edge source="hotel supply" target="hvs market report" id="457" weight="1" />
+      <edge source="hotel systems" target="hotel technology" id="458" weight="1" />
+      <edge source="hotel systems" target="integration" id="459" weight="1" />
+      <edge source="hotel systems" target="maestro" id="460" weight="1" />
+      <edge source="hotel systems" target="multi-property" id="461" weight="1" />
+      <edge source="hotel systems" target="networking" id="462" weight="1" />
+      <edge source="hotel systems" target="on-premises" id="463" weight="1" />
+      <edge source="hotel systems" target="platform" id="464" weight="1" />
+      <edge source="hotel systems" target="pms" id="465" weight="1" />
+      <edge source="hotel systems" target="property management system" id="466" weight="1" />
+      <edge source="hotel systems" target="self-service" id="467" weight="1" />
+      <edge source="hotel systems" target="support" id="468" weight="1" />
+      <edge source="hotel technology" target="multi-property" id="469" weight="1" />
+      <edge source="hotel transactions" target="valuation services" id="470" weight="1" />
+      <edge source="hotel website" target="instant response" id="471" weight="1" />
+      <edge source="hotel website" target="otas" id="472" weight="1" />
+      <edge source="hotel website" target="revenue generation" id="473" weight="1" />
+      <edge source="hotel website" target="reviews" id="474" weight="1" />
+      <edge source="hotel website" target="search engine" id="475" weight="1" />
+      <edge source="hotel website" target="search engine optimization" id="476" weight="1" />
+      <edge source="hotel website" target="travelboom" id="477" weight="1" />
+      <edge source="hotel website" target="user experience" id="478" weight="1" />
+      <edge source="instant response" target="international arrivals" id="479" weight="1" />
+      <edge source="instant response" target="online reviews" id="480" weight="1" />
+      <edge source="instant response" target="reviews" id="481" weight="1" />
+      <edge source="instant response" target="survey" id="482" weight="1" />
+      <edge source="instant response" target="travel data" id="483" weight="1" />
+      <edge source="instant response" target="traveler" id="484" weight="1" />
+      <edge source="instant response" target="travelers" id="485" weight="1" />
+      <edge source="instant response" target="trustyou" id="486" weight="1" />
+      <edge source="integration" target="maestro" id="487" weight="1" />
+      <edge source="integration" target="multi-property" id="488" weight="1" />
+      <edge source="integration" target="networking" id="489" weight="1" />
+      <edge source="integration" target="on-premises" id="490" weight="1" />
+      <edge source="integration" target="pms" id="491" weight="1" />
+      <edge source="integration" target="support" id="492" weight="1" />
+      <edge source="international arrivals" target="pre-pandemic levels" id="493" weight="1" />
+      <edge source="international arrivals" target="travel data" id="494" weight="1" />
+      <edge source="international arrivals" target="trustyou" id="495" weight="1" />
+      <edge source="international experts" target="market intelligence" id="496" weight="1" />
+      <edge source="international experts" target="market occupancy" id="497" weight="1" />
+      <edge source="international experts" target="ota" id="498" weight="1" />
+      <edge source="international experts" target="ota insight" id="499" weight="1" />
+      <edge source="international experts" target="otainsight" id="500" weight="1" />
+      <edge source="international experts" target="parity intelligence" id="501" weight="1" />
+      <edge source="international experts" target="pricing" id="502" weight="1" />
+      <edge source="international experts" target="revenue intelligence" id="503" weight="1" />
+      <edge source="international experts" target="seasonality" id="504" weight="1" />
+      <edge source="international headquarters" target="marketplace insights" id="505" weight="1" />
+      <edge source="international headquarters" target="occupancy level" id="506" weight="1" />
+      <edge source="international headquarters" target="real estate information" id="507" weight="1" />
+      <edge source="international headquarters" target="str" id="508" weight="1" />
+      <edge source="international headquarters" target="u.s. hotel performance" id="509" weight="1" />
+      <edge source="job creation" target="job search" id="510" weight="1" />
+      <edge source="job creation" target="jobs" id="511" weight="1" />
+      <edge source="job creation" target="travel &amp; tourism" id="512" weight="1" />
+      <edge source="job creation" target="wttc" id="513" weight="1" />
+      <edge source="job market" target="job search" id="514" weight="1" />
+      <edge source="job market" target="jobs" id="515" weight="1" />
+      <edge source="job market" target="talent" id="516" weight="1" />
+      <edge source="job market" target="transportation" id="517" weight="1" />
+      <edge source="job search" target="jobs" id="518" weight="1" />
+      <edge source="job search" target="talent" id="519" weight="1" />
+      <edge source="job search" target="transportation" id="520" weight="1" />
+      <edge source="jobs" target="transportation" id="521" weight="1" />
+      <edge source="jobs" target="travel &amp; tourism" id="522" weight="1" />
+      <edge source="jobs" target="wttc" id="523" weight="1" />
+      <edge source="knowledge acquisition" target="media" id="524" weight="1" />
+      <edge source="knowledge acquisition" target="openai" id="525" weight="1" />
+      <edge source="knowledge acquisition" target="strategy" id="526" weight="1" />
+      <edge source="knowledge acquisition" target="travel technology" id="527" weight="1" />
+      <edge source="machine learning" target="openai" id="528" weight="1" />
+      <edge source="maestro" target="mobile" id="529" weight="1" />
+      <edge source="maestro" target="multi-property" id="530" weight="1" />
+      <edge source="maestro" target="on-premises" id="531" weight="1" />
+      <edge source="maestro" target="onboarding" id="532" weight="1" />
+      <edge source="maestro" target="platform" id="533" weight="1" />
+      <edge source="maestro" target="pms" id="534" weight="1" />
+      <edge source="market" target="market occupancy" id="535" weight="1" />
+      <edge source="market intelligence" target="ota" id="536" weight="1" />
+      <edge source="market intelligence" target="ota insight" id="537" weight="1" />
+      <edge source="market intelligence" target="otainsight" id="538" weight="1" />
+      <edge source="market intelligence" target="parity intelligence" id="539" weight="1" />
+      <edge source="market intelligence" target="pricing" id="540" weight="1" />
+      <edge source="market intelligence" target="revenue intelligence" id="541" weight="1" />
+      <edge source="market occupancy" target="market share" id="542" weight="1" />
+      <edge source="market occupancy" target="occupancy level" id="543" weight="1" />
+      <edge source="market occupancy" target="ota insight" id="544" weight="1" />
+      <edge source="market occupancy" target="otainsight" id="545" weight="1" />
+      <edge source="market occupancy" target="parity intelligence" id="546" weight="1" />
+      <edge source="market occupancy" target="revenue intelligence" id="547" weight="1" />
+      <edge source="market occupancy" target="supply" id="548" weight="1" />
+      <edge source="market occupancy" target="top 25 markets" id="549" weight="1" />
+      <edge source="market occupancy" target="weekday occupancy" id="550" weight="1" />
+      <edge source="market occupancy" target="weekend occupancy" id="551" weight="1" />
+      <edge source="market share" target="markets" id="552" weight="1" />
+      <edge source="market share" target="occupancy level" id="553" weight="1" />
+      <edge source="marketplace insights" target="real estate information" id="554" weight="1" />
+      <edge source="marketplace insights" target="str" id="555" weight="1" />
+      <edge source="marketplace insights" target="u.s. hotel performance" id="556" weight="1" />
+      <edge source="media" target="strategy" id="557" weight="1" />
+      <edge source="media" target="travel technology" id="558" weight="1" />
+      <edge source="metaverse" target="virtual reality" id="559" weight="1" />
+      <edge source="mobile" target="on-premises" id="560" weight="1" />
+      <edge source="multi-property" target="networking" id="561" weight="1" />
+      <edge source="multi-property" target="on-premises" id="562" weight="1" />
+      <edge source="multi-property" target="onboarding" id="563" weight="1" />
+      <edge source="multi-property" target="platform" id="564" weight="1" />
+      <edge source="multi-property" target="pms" id="565" weight="1" />
+      <edge source="multi-property" target="property management system" id="566" weight="1" />
+      <edge source="multi-property" target="support" id="567" weight="1" />
+      <edge source="networking" target="support" id="568" weight="1" />
+      <edge source="new york city" target="weekend occupancy" id="569" weight="1" />
+      <edge source="newsletter" target="services" id="570" weight="1" />
+      <edge source="newsletter" target="singapore" id="571" weight="1" />
+      <edge source="newsletter" target="valuation" id="572" weight="1" />
+      <edge source="newsletter" target="valuation services" id="573" weight="1" />
+      <edge source="occupancy growth" target="revenue per available room" id="574" weight="1" />
+      <edge source="occupancy growth" target="supply" id="575" weight="1" />
+      <edge source="occupancy growth" target="top 25 markets" id="576" weight="1" />
+      <edge source="occupancy growth" target="weekday occupancy" id="577" weight="1" />
+      <edge source="occupancy growth" target="weekend occupancy" id="578" weight="1" />
+      <edge source="occupancy level" target="real estate information" id="579" weight="1" />
+      <edge source="occupancy level" target="san francisco" id="580" weight="1" />
+      <edge source="on-premises" target="onboarding" id="581" weight="1" />
+      <edge source="on-premises" target="platform" id="582" weight="1" />
+      <edge source="on-premises" target="pms" id="583" weight="1" />
+      <edge source="on-premises" target="property management system" id="584" weight="1" />
+      <edge source="online reviews" target="otas" id="585" weight="1" />
+      <edge source="online reviews" target="reviews" id="586" weight="1" />
+      <edge source="online reviews" target="trustyou" id="587" weight="1" />
+      <edge source="ota" target="ota insight" id="588" weight="1" />
+      <edge source="ota" target="otainsight" id="589" weight="1" />
+      <edge source="ota" target="otas" id="590" weight="1" />
+      <edge source="ota" target="parity intelligence" id="591" weight="1" />
+      <edge source="ota" target="revenue intelligence" id="592" weight="1" />
+      <edge source="ota insight" target="otainsight" id="593" weight="1" />
+      <edge source="ota insight" target="parity intelligence" id="594" weight="1" />
+      <edge source="ota insight" target="pricing" id="595" weight="1" />
+      <edge source="ota insight" target="revenue intelligence" id="596" weight="1" />
+      <edge source="otainsight" target="parity intelligence" id="597" weight="1" />
+      <edge source="otainsight" target="pricing" id="598" weight="1" />
+      <edge source="otainsight" target="revenue intelligence" id="599" weight="1" />
+      <edge source="otainsight" target="seasonality" id="600" weight="1" />
+      <edge source="parity intelligence" target="pricing" id="601" weight="1" />
+      <edge source="parity intelligence" target="revenue intelligence" id="602" weight="1" />
+      <edge source="parity intelligence" target="seasonality" id="603" weight="1" />
+      <edge source="pipeline" target="rooms" id="604" weight="1" />
+      <edge source="pms" target="property management system" id="605" weight="1" />
+      <edge source="pricing" target="revenue intelligence" id="606" weight="1" />
+      <edge source="project" target="rooms" id="607" weight="1" />
+      <edge source="real estate information" target="str" id="608" weight="1" />
+      <edge source="real estate information" target="u.s. hotel performance" id="609" weight="1" />
+      <edge source="region" target="travel &amp; tourism" id="610" weight="1" />
+      <edge source="region" target="wttc" id="611" weight="1" />
+      <edge source="renewable energy" target="sustainable tourism" id="612" weight="1" />
+      <edge source="reservation" target="revenue generation" id="613" weight="1" />
+      <edge source="revenue intelligence" target="seasonality" id="614" weight="1" />
+      <edge source="revenue per available room (revpar)" target="u.s. hotel performance" id="615" weight="1" />
+      <edge source="revenue per available room (revpar)" target="weekday occupancy" id="616" weight="1" />
+      <edge source="revenue per available room (revpar)" target="weekend occupancy" id="617" weight="1" />
+      <edge source="reviews" target="search engine optimization" id="618" weight="1" />
+      <edge source="reviews" target="travel data" id="619" weight="1" />
+      <edge source="reviews" target="trustyou" id="620" weight="1" />
+      <edge source="rooms" target="yoy" id="621" weight="1" />
+      <edge source="san francisco" target="u.s. hotel performance" id="622" weight="1" />
+      <edge source="search engine" target="search engine optimization" id="623" weight="1" />
+      <edge source="services" target="valuation" id="624" weight="1" />
+      <edge source="services" target="valuation services" id="625" weight="1" />
+      <edge source="storytelling" target="transformation" id="626" weight="1" />
+      <edge source="storytelling" target="travel technology" id="627" weight="1" />
+      <edge source="supply" target="top 25 markets" id="628" weight="1" />
+      <edge source="supply" target="weekday occupancy" id="629" weight="1" />
+      <edge source="supply" target="weekend occupancy" id="630" weight="1" />
+      <edge source="supply" target="yoy" id="631" weight="1" />
+      <edge source="sustainable tourism" target="travel &amp; tourism" id="632" weight="1" />
+      <edge source="sustainable tourism" target="wttc" id="633" weight="1" />
+      <edge source="top 25 markets" target="u.s. hotel performance" id="634" weight="1" />
+      <edge source="top 25 markets" target="weekday occupancy" id="635" weight="1" />
+      <edge source="top 25 markets" target="weekend occupancy" id="636" weight="1" />
+      <edge source="transformation" target="travel technology" id="637" weight="1" />
+      <edge source="travel &amp; tourism" target="wttc" id="638" weight="1" />
+      <edge source="travel data" target="trustyou" id="639" weight="1" />
+      <edge source="valuation" target="valuation services" id="640" weight="1" />
+      <edge source="weekday occupancy" target="weekend occupancy" id="641" weight="1" />
+      <edge source="weekday occupancy" target="yoy" id="642" weight="1" />
+      <edge source="weekend occupancy" target="yoy" id="643" weight="1" />
+    </edges>
+  </graph>
+</gexf>

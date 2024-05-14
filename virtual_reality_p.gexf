@@ -1,0 +1,1057 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-01">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="new_edge_connected" type="boolean" />
+    </attributes>
+    <nodes>
+      <node id="adr growth" label="adr growth" />
+      <node id="advertising" label="advertising" />
+      <node id="ai" label="ai" />
+      <node id="amadeus" label="amadeus" />
+      <node id="analytics" label="analytics" />
+      <node id="artificial intelligence" label="artificial intelligence" />
+      <node id="average daily rate (adr)" label="average daily rate (adr)" />
+      <node id="b2b marketing" label="b2b marketing" />
+      <node id="benchmarking" label="benchmarking" />
+      <node id="booking engine" label="booking engine">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="brand awareness" label="brand awareness" />
+      <node id="business development" label="business development" />
+      <node id="business intelligence" label="business intelligence" />
+      <node id="business transformation" label="business transformation" />
+      <node id="cendyn" label="cendyn" />
+      <node id="chat" label="chat" />
+      <node id="chatbots" label="chatbots" />
+      <node id="chatgpt" label="chatgpt" />
+      <node id="cloud" label="cloud">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="commercial real estate" label="commercial real estate" />
+      <node id="communication" label="communication">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="conference" label="conference" />
+      <node id="construction" label="construction" />
+      <node id="consulting" label="consulting" />
+      <node id="convention center" label="convention center" />
+      <node id="csgp" label="csgp" />
+      <node id="customer engagement" label="customer engagement" />
+      <node id="customer experience" label="customer experience" />
+      <node id="customer feedback" label="customer feedback">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="customer relationship management" label="customer relationship management" />
+      <node id="customer satisfaction" label="customer satisfaction" />
+      <node id="customer success" label="customer success">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="data" label="data" />
+      <node id="data analytics" label="data analytics" />
+      <node id="data benchmarking" label="data benchmarking">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="data integration" label="data integration" />
+      <node id="data science" label="data science" />
+      <node id="data-driven marketing" label="data-driven marketing" />
+      <node id="demand" label="demand" />
+      <node id="destinations" label="destinations" />
+      <node id="digital marketing" label="digital marketing" />
+      <node id="digital transformation" label="digital transformation" />
+      <node id="direct booking" label="direct booking" />
+      <node id="direct bookings" label="direct bookings">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="distribution" label="distribution" />
+      <node id="economic growth" label="economic growth" />
+      <node id="economic impact" label="economic impact" />
+      <node id="email" label="email" />
+      <node id="emea" label="emea">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="employment" label="employment">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="energy efficiency" label="energy efficiency" />
+      <node id="environmental impact" label="environmental impact" />
+      <node id="europe" label="europe" />
+      <node id="expertise" label="expertise" />
+      <node id="feasibility studies" label="feasibility studies" />
+      <node id="feedback" label="feedback">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="fitness centre" label="fitness centre" />
+      <node id="future" label="future" />
+      <node id="generative ai" label="generative ai" />
+      <node id="global economics" label="global economics" />
+      <node id="global economy" label="global economy" />
+      <node id="global hospitality" label="global hospitality" />
+      <node id="global network" label="global network">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="global operations" label="global operations" />
+      <node id="global tourism" label="global tourism" />
+      <node id="google" label="google">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="group demand" label="group demand" />
+      <node id="group travel" label="group travel" />
+      <node id="guest experience" label="guest experience" />
+      <node id="guest feedback" label="guest feedback">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="guest reviews" label="guest reviews" />
+      <node id="guest satisfaction" label="guest satisfaction">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="guest service" label="guest service" />
+      <node id="gx platform" label="gx platform">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="holiday" label="holiday" />
+      <node id="hospitality business intelligence" label="hospitality business intelligence" />
+      <node id="hospitality technology" label="hospitality technology">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="hotel booking" label="hotel booking" />
+      <node id="hotel management system" label="hotel management system" />
+      <node id="hotel market" label="hotel market" />
+      <node id="hotel marketing" label="hotel marketing" />
+      <node id="hotel marketing podcast" label="hotel marketing podcast" />
+      <node id="hotel openings" label="hotel openings" />
+      <node id="hotel performance" label="hotel performance" />
+      <node id="hotel pms" label="hotel pms">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="hotel projects" label="hotel projects" />
+      <node id="hotel property management" label="hotel property management" />
+      <node id="hotel reservation" label="hotel reservation">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="hotel reservations" label="hotel reservations" />
+      <node id="hotel revenue management" label="hotel revenue management">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="hotel reviews" label="hotel reviews">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="hotel sales" label="hotel sales" />
+      <node id="hotel search" label="hotel search" />
+      <node id="hotel software" label="hotel software" />
+      <node id="hotel supply" label="hotel supply" />
+      <node id="hotel systems" label="hotel systems" />
+      <node id="hotel technology" label="hotel technology" />
+      <node id="hotel transactions" label="hotel transactions" />
+      <node id="hotel website" label="hotel website">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="hvs market report" label="hvs market report" />
+      <node id="instant response" label="instant response" />
+      <node id="integration" label="integration" />
+      <node id="international arrivals" label="international arrivals">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="international experts" label="international experts" />
+      <node id="international headquarters" label="international headquarters" />
+      <node id="job creation" label="job creation" />
+      <node id="job market" label="job market" />
+      <node id="job search" label="job search" />
+      <node id="jobs" label="jobs">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="knowledge acquisition" label="knowledge acquisition" />
+      <node id="lead generation" label="lead generation" />
+      <node id="leisure demand" label="leisure demand">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="machine learning" label="machine learning" />
+      <node id="maestro" label="maestro" />
+      <node id="market" label="market" />
+      <node id="market intelligence" label="market intelligence" />
+      <node id="market occupancy" label="market occupancy">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="market share" label="market share" />
+      <node id="marketplace insights" label="marketplace insights">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="markets" label="markets">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="media" label="media" />
+      <node id="metaverse" label="metaverse" />
+      <node id="mobile" label="mobile" />
+      <node id="mobile app" label="mobile app" />
+      <node id="mobility" label="mobility" />
+      <node id="multi-property" label="multi-property" />
+      <node id="networking" label="networking" />
+      <node id="new york city" label="new york city" />
+      <node id="newsletter" label="newsletter" />
+      <node id="occupancy growth" label="occupancy growth">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="occupancy level" label="occupancy level">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="on-premises" label="on-premises">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="onboarding" label="onboarding" />
+      <node id="online booking" label="online booking" />
+      <node id="online reviews" label="online reviews">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="openai" label="openai" />
+      <node id="ota" label="ota">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="ota insight" label="ota insight" />
+      <node id="otainsight" label="otainsight" />
+      <node id="otas" label="otas" />
+      <node id="parity intelligence" label="parity intelligence" />
+      <node id="pipeline" label="pipeline" />
+      <node id="platform" label="platform" />
+      <node id="pms" label="pms">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="pre-pandemic levels" label="pre-pandemic levels" />
+      <node id="pricing" label="pricing">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="project" label="project" />
+      <node id="property management system" label="property management system" />
+      <node id="real estate information" label="real estate information" />
+      <node id="region" label="region" />
+      <node id="renewable energy" label="renewable energy" />
+      <node id="reservation" label="reservation">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="revenue generation" label="revenue generation" />
+      <node id="revenue intelligence" label="revenue intelligence" />
+      <node id="revenue management" label="revenue management" />
+      <node id="revenue per available room" label="revenue per available room" />
+      <node id="revenue per available room (revpar)" label="revenue per available room (revpar)" />
+      <node id="reviews" label="reviews">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="roi" label="roi" />
+      <node id="rooms" label="rooms" />
+      <node id="san francisco" label="san francisco" />
+      <node id="search engine" label="search engine" />
+      <node id="search engine optimization" label="search engine optimization" />
+      <node id="seasonality" label="seasonality" />
+      <node id="self-service" label="self-service" />
+      <node id="services" label="services" />
+      <node id="singapore" label="singapore" />
+      <node id="software" label="software" />
+      <node id="storytelling" label="storytelling" />
+      <node id="str" label="str" />
+      <node id="strategy" label="strategy" />
+      <node id="supply" label="supply" />
+      <node id="support" label="support" />
+      <node id="survey" label="survey" />
+      <node id="sustainable tourism" label="sustainable tourism" />
+      <node id="talent" label="talent">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="top 25 markets" label="top 25 markets" />
+      <node id="training" label="training" />
+      <node id="transformation" label="transformation" />
+      <node id="transportation" label="transportation" />
+      <node id="travel &amp; tourism" label="travel &amp; tourism" />
+      <node id="travel data" label="travel data">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="travel technology" label="travel technology" />
+      <node id="travelboom" label="travelboom" />
+      <node id="traveler" label="traveler" />
+      <node id="travelers" label="travelers">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="trustyou" label="trustyou" />
+      <node id="u.s. hotel performance" label="u.s. hotel performance" />
+      <node id="user experience" label="user experience" />
+      <node id="valuation" label="valuation" />
+      <node id="valuation services" label="valuation services" />
+      <node id="virtual reality" label="virtual reality" />
+      <node id="weekday occupancy" label="weekday occupancy" />
+      <node id="weekend occupancy" label="weekend occupancy">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+      <node id="wttc" label="wttc" />
+      <node id="yoy" label="yoy">
+        <attvalues>
+          <attvalue for="0" value="true" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="adr growth" target="weekday occupancy" id="0" weight="1.0" />
+      <edge source="adr growth" target="weekend occupancy" id="1" weight="1.0" />
+      <edge source="advertising" target="brand awareness" id="2" weight="1.0" />
+      <edge source="advertising" target="media" id="3" weight="1.0" />
+      <edge source="ai" target="chatgpt" id="4" weight="1.0" />
+      <edge source="ai" target="generative ai" id="5" weight="1.0" />
+      <edge source="ai" target="machine learning" id="6" weight="1.0" />
+      <edge source="ai" target="openai" id="7" weight="1.0" />
+      <edge source="amadeus" target="future" id="8" weight="1.0" />
+      <edge source="amadeus" target="mobility" id="9" weight="1.0" />
+      <edge source="amadeus" target="travel technology" id="10" weight="1.0" />
+      <edge source="amadeus" target="traveler" id="11" weight="1.0" />
+      <edge source="analytics" target="hotel marketing podcast" id="12" weight="1.0" />
+      <edge source="analytics" target="travelboom" id="13" weight="1.0" />
+      <edge source="artificial intelligence" target="openai" id="14" weight="1.0" />
+      <edge source="average daily rate (adr)" target="revenue per available room (revpar)" id="15" weight="1.0" />
+      <edge source="average daily rate (adr)" target="weekday occupancy" id="16" weight="1.0" />
+      <edge source="average daily rate (adr)" target="weekend occupancy" id="17" weight="1.0" />
+      <edge source="b2b marketing" target="brand awareness" id="18" weight="1.0" />
+      <edge source="b2b marketing" target="customer engagement" id="19" weight="1.0" />
+      <edge source="b2b marketing" target="hotel software" id="20" weight="1.0" />
+      <edge source="b2b marketing" target="knowledge acquisition" id="21" weight="1.0" />
+      <edge source="b2b marketing" target="lead generation" id="22" weight="1.0" />
+      <edge source="b2b marketing" target="media" id="23" weight="1.0" />
+      <edge source="b2b marketing" target="roi" id="24" weight="1.0" />
+      <edge source="b2b marketing" target="strategy" id="25" weight="1.0" />
+      <edge source="b2b marketing" target="travel technology" id="26" weight="1.0" />
+      <edge source="benchmarking" target="csgp" id="27" weight="1.0" />
+      <edge source="benchmarking" target="international headquarters" id="28" weight="1.0" />
+      <edge source="benchmarking" target="marketplace insights" id="29" weight="1.0" />
+      <edge source="benchmarking" target="real estate information" id="30" weight="1.0" />
+      <edge source="benchmarking" target="u.s. hotel performance" id="31" weight="1.0" />
+      <edge source="booking engine" target="business development" id="32" weight="1.0" />
+      <edge source="booking engine" target="business transformation" id="33" weight="1.0" />
+      <edge source="booking engine" target="customer success" id="34" weight="1.0" />
+      <edge source="booking engine" target="hospitality technology" id="35" weight="1.0" />
+      <edge source="booking engine" target="hotel management system" id="36" weight="1.0" />
+      <edge source="booking engine" target="hotel systems" id="37" weight="1.0" />
+      <edge source="booking engine" target="integration" id="38" weight="1.0" />
+      <edge source="booking engine" target="multi-property" id="39" weight="1.0" />
+      <edge source="booking engine" target="networking" id="40" weight="1.0" />
+      <edge source="booking engine" target="revenue generation" id="41" weight="1.0" />
+      <edge source="booking engine" target="support" id="42" weight="1.0" />
+      <edge source="booking engine" target="user experience" id="43" weight="1.0" />
+      <edge source="booking engine" target="cloud" id="44" weight="5" />
+      <edge source="booking engine" target="on-premises" id="45" weight="5" />
+      <edge source="booking engine" target="hotel pms" id="46" weight="5" />
+      <edge source="booking engine" target="pms" id="47" weight="5" />
+      <edge source="brand awareness" target="customer engagement" id="48" weight="1.0" />
+      <edge source="brand awareness" target="knowledge acquisition" id="49" weight="1.0" />
+      <edge source="brand awareness" target="media" id="50" weight="1.0" />
+      <edge source="brand awareness" target="strategy" id="51" weight="1.0" />
+      <edge source="brand awareness" target="travel technology" id="52" weight="1.0" />
+      <edge source="business development" target="business transformation" id="53" weight="1.0" />
+      <edge source="business development" target="customer success" id="54" weight="1.0" />
+      <edge source="business development" target="hotel management system" id="55" weight="1.0" />
+      <edge source="business development" target="hotel systems" id="56" weight="1.0" />
+      <edge source="business development" target="multi-property" id="57" weight="1.0" />
+      <edge source="business development" target="networking" id="58" weight="1.0" />
+      <edge source="business intelligence" target="hospitality business intelligence" id="59" weight="1.0" />
+      <edge source="business intelligence" target="hotel property management" id="60" weight="1.0" />
+      <edge source="business intelligence" target="international experts" id="61" weight="1.0" />
+      <edge source="business intelligence" target="ota insight" id="62" weight="1.0" />
+      <edge source="business intelligence" target="otainsight" id="63" weight="1.0" />
+      <edge source="business intelligence" target="parity intelligence" id="64" weight="1.0" />
+      <edge source="business intelligence" target="revenue intelligence" id="65" weight="1.0" />
+      <edge source="business transformation" target="customer engagement" id="66" weight="1.0" />
+      <edge source="business transformation" target="customer success" id="67" weight="1.0" />
+      <edge source="business transformation" target="hospitality technology" id="68" weight="1.0" />
+      <edge source="business transformation" target="hotel management system" id="69" weight="1.0" />
+      <edge source="business transformation" target="hotel systems" id="70" weight="1.0" />
+      <edge source="business transformation" target="multi-property" id="71" weight="1.0" />
+      <edge source="business transformation" target="networking" id="72" weight="1.0" />
+      <edge source="business transformation" target="storytelling" id="73" weight="1.0" />
+      <edge source="business transformation" target="support" id="74" weight="1.0" />
+      <edge source="business transformation" target="transformation" id="75" weight="1.0" />
+      <edge source="business transformation" target="travel technology" id="76" weight="1.0" />
+      <edge source="cendyn" target="customer relationship management" id="77" weight="1.0" />
+      <edge source="cendyn" target="data integration" id="78" weight="1.0" />
+      <edge source="cendyn" target="digital transformation" id="79" weight="1.0" />
+      <edge source="cendyn" target="global operations" id="80" weight="1.0" />
+      <edge source="cendyn" target="hotel technology" id="81" weight="1.0" />
+      <edge source="chat" target="chatgpt" id="82" weight="1.0" />
+      <edge source="chat" target="openai" id="83" weight="1.0" />
+      <edge source="chatbots" target="chatgpt" id="84" weight="1.0" />
+      <edge source="chatbots" target="openai" id="85" weight="1.0" />
+      <edge source="chatgpt" target="generative ai" id="86" weight="1.0" />
+      <edge source="chatgpt" target="machine learning" id="87" weight="1.0" />
+      <edge source="chatgpt" target="openai" id="88" weight="1.0" />
+      <edge source="cloud" target="hotel management system" id="89" weight="1.0" />
+      <edge source="cloud" target="hotel pms" id="90" weight="1.0" />
+      <edge source="cloud" target="hotel systems" id="91" weight="1.0" />
+      <edge source="cloud" target="integration" id="92" weight="1.0" />
+      <edge source="cloud" target="maestro" id="93" weight="1.0" />
+      <edge source="cloud" target="mobile" id="94" weight="1.0" />
+      <edge source="cloud" target="multi-property" id="95" weight="1.0" />
+      <edge source="cloud" target="on-premises" id="96" weight="1.0" />
+      <edge source="cloud" target="onboarding" id="97" weight="1.0" />
+      <edge source="cloud" target="platform" id="98" weight="1.0" />
+      <edge source="cloud" target="pms" id="99" weight="1.0" />
+      <edge source="cloud" target="property management system" id="100" weight="1.0" />
+      <edge source="cloud" target="hospitality technology" id="101" weight="5" />
+      <edge source="cloud" target="customer success" id="102" weight="5" />
+      <edge source="commercial real estate" target="csgp" id="103" weight="1.0" />
+      <edge source="commercial real estate" target="data analytics" id="104" weight="1.0" />
+      <edge source="commercial real estate" target="international headquarters" id="105" weight="1.0" />
+      <edge source="commercial real estate" target="marketplace insights" id="106" weight="1.0" />
+      <edge source="commercial real estate" target="occupancy level" id="107" weight="1.0" />
+      <edge source="commercial real estate" target="real estate information" id="108" weight="1.0" />
+      <edge source="communication" target="customer feedback" id="109" weight="1.0" />
+      <edge source="communication" target="gx platform" id="110" weight="1.0" />
+      <edge source="communication" target="instant response" id="111" weight="1.0" />
+      <edge source="communication" target="guest feedback" id="112" weight="5" />
+      <edge source="conference" target="guest service" id="113" weight="1.0" />
+      <edge source="construction" target="hotel openings" id="114" weight="1.0" />
+      <edge source="construction" target="hotel projects" id="115" weight="1.0" />
+      <edge source="construction" target="project" id="116" weight="1.0" />
+      <edge source="construction" target="rooms" id="117" weight="1.0" />
+      <edge source="consulting" target="feasibility studies" id="118" weight="1.0" />
+      <edge source="consulting" target="hotel supply" id="119" weight="1.0" />
+      <edge source="consulting" target="hvs market report" id="120" weight="1.0" />
+      <edge source="convention center" target="feasibility studies" id="121" weight="1.0" />
+      <edge source="convention center" target="hotel projects" id="122" weight="1.0" />
+      <edge source="convention center" target="hotel supply" id="123" weight="1.0" />
+      <edge source="convention center" target="hvs market report" id="124" weight="1.0" />
+      <edge source="csgp" target="data analytics" id="125" weight="1.0" />
+      <edge source="csgp" target="data benchmarking" id="126" weight="1.0" />
+      <edge source="csgp" target="global hospitality" id="127" weight="1.0" />
+      <edge source="csgp" target="international headquarters" id="128" weight="1.0" />
+      <edge source="csgp" target="marketplace insights" id="129" weight="1.0" />
+      <edge source="csgp" target="occupancy level" id="130" weight="1.0" />
+      <edge source="csgp" target="real estate information" id="131" weight="1.0" />
+      <edge source="csgp" target="str" id="132" weight="1.0" />
+      <edge source="csgp" target="u.s. hotel performance" id="133" weight="1.0" />
+      <edge source="customer engagement" target="knowledge acquisition" id="134" weight="1.0" />
+      <edge source="customer engagement" target="lead generation" id="135" weight="1.0" />
+      <edge source="customer engagement" target="media" id="136" weight="1.0" />
+      <edge source="customer engagement" target="storytelling" id="137" weight="1.0" />
+      <edge source="customer engagement" target="transformation" id="138" weight="1.0" />
+      <edge source="customer engagement" target="travel technology" id="139" weight="1.0" />
+      <edge source="customer experience" target="customer feedback" id="140" weight="1.0" />
+      <edge source="customer experience" target="guest feedback" id="141" weight="1.0" />
+      <edge source="customer experience" target="guest reviews" id="142" weight="1.0" />
+      <edge source="customer experience" target="gx platform" id="143" weight="1.0" />
+      <edge source="customer experience" target="hotel reviews" id="144" weight="1.0" />
+      <edge source="customer experience" target="instant response" id="145" weight="1.0" />
+      <edge source="customer experience" target="trustyou" id="146" weight="1.0" />
+      <edge source="customer feedback" target="customer satisfaction" id="147" weight="1.0" />
+      <edge source="customer feedback" target="emea" id="148" weight="1.0" />
+      <edge source="customer feedback" target="feedback" id="149" weight="1.0" />
+      <edge source="customer feedback" target="guest feedback" id="150" weight="1.0" />
+      <edge source="customer feedback" target="guest reviews" id="151" weight="1.0" />
+      <edge source="customer feedback" target="guest satisfaction" id="152" weight="1.0" />
+      <edge source="customer feedback" target="gx platform" id="153" weight="1.0" />
+      <edge source="customer feedback" target="hotel reviews" id="154" weight="1.0" />
+      <edge source="customer feedback" target="instant response" id="155" weight="1.0" />
+      <edge source="customer feedback" target="online reviews" id="156" weight="1.0" />
+      <edge source="customer feedback" target="reviews" id="157" weight="1.0" />
+      <edge source="customer feedback" target="travel data" id="158" weight="1.0" />
+      <edge source="customer feedback" target="traveler" id="159" weight="1.0" />
+      <edge source="customer feedback" target="travelers" id="160" weight="1.0" />
+      <edge source="customer feedback" target="trustyou" id="161" weight="1.0" />
+      <edge source="customer feedback" target="international arrivals" id="162" weight="5" />
+      <edge source="customer relationship management" target="data integration" id="163" weight="1.0" />
+      <edge source="customer relationship management" target="global operations" id="164" weight="1.0" />
+      <edge source="customer satisfaction" target="guest feedback" id="165" weight="1.0" />
+      <edge source="customer satisfaction" target="guest reviews" id="166" weight="1.0" />
+      <edge source="customer satisfaction" target="gx platform" id="167" weight="1.0" />
+      <edge source="customer satisfaction" target="hotel reviews" id="168" weight="1.0" />
+      <edge source="customer satisfaction" target="instant response" id="169" weight="1.0" />
+      <edge source="customer satisfaction" target="reviews" id="170" weight="1.0" />
+      <edge source="customer satisfaction" target="trustyou" id="171" weight="1.0" />
+      <edge source="customer success" target="hospitality technology" id="172" weight="1.0" />
+      <edge source="customer success" target="hotel management system" id="173" weight="1.0" />
+      <edge source="customer success" target="hotel systems" id="174" weight="1.0" />
+      <edge source="customer success" target="integration" id="175" weight="1.0" />
+      <edge source="customer success" target="multi-property" id="176" weight="1.0" />
+      <edge source="customer success" target="networking" id="177" weight="1.0" />
+      <edge source="customer success" target="pms" id="178" weight="1.0" />
+      <edge source="customer success" target="property management system" id="179" weight="1.0" />
+      <edge source="customer success" target="support" id="180" weight="1.0" />
+      <edge source="customer success" target="on-premises" id="181" weight="5" />
+      <edge source="customer success" target="hotel pms" id="182" weight="5" />
+      <edge source="data" target="instant response" id="183" weight="1.0" />
+      <edge source="data analytics" target="international headquarters" id="184" weight="1.0" />
+      <edge source="data analytics" target="marketplace insights" id="185" weight="1.0" />
+      <edge source="data analytics" target="occupancy level" id="186" weight="1.0" />
+      <edge source="data analytics" target="real estate information" id="187" weight="1.0" />
+      <edge source="data benchmarking" target="hospitality business intelligence" id="188" weight="1.0" />
+      <edge source="data benchmarking" target="hotel property management" id="189" weight="1.0" />
+      <edge source="data benchmarking" target="international experts" id="190" weight="1.0" />
+      <edge source="data benchmarking" target="international headquarters" id="191" weight="1.0" />
+      <edge source="data benchmarking" target="market intelligence" id="192" weight="1.0" />
+      <edge source="data benchmarking" target="marketplace insights" id="193" weight="1.0" />
+      <edge source="data benchmarking" target="ota insight" id="194" weight="1.0" />
+      <edge source="data benchmarking" target="otainsight" id="195" weight="1.0" />
+      <edge source="data benchmarking" target="parity intelligence" id="196" weight="1.0" />
+      <edge source="data benchmarking" target="real estate information" id="197" weight="1.0" />
+      <edge source="data benchmarking" target="revenue intelligence" id="198" weight="1.0" />
+      <edge source="data benchmarking" target="u.s. hotel performance" id="199" weight="1.0" />
+      <edge source="data benchmarking" target="hotel revenue management" id="200" weight="5" />
+      <edge source="data benchmarking" target="pricing" id="201" weight="5" />
+      <edge source="data benchmarking" target="market occupancy" id="202" weight="5" />
+      <edge source="data integration" target="digital transformation" id="203" weight="1.0" />
+      <edge source="data integration" target="global operations" id="204" weight="1.0" />
+      <edge source="data science" target="data-driven marketing" id="205" weight="1.0" />
+      <edge source="data science" target="digital marketing" id="206" weight="1.0" />
+      <edge source="data science" target="direct bookings" id="207" weight="1.0" />
+      <edge source="data science" target="hotel marketing" id="208" weight="1.0" />
+      <edge source="data science" target="hotel marketing podcast" id="209" weight="1.0" />
+      <edge source="data science" target="travelboom" id="210" weight="1.0" />
+      <edge source="data-driven marketing" target="digital marketing" id="211" weight="1.0" />
+      <edge source="data-driven marketing" target="direct bookings" id="212" weight="1.0" />
+      <edge source="data-driven marketing" target="hotel marketing" id="213" weight="1.0" />
+      <edge source="data-driven marketing" target="hotel marketing podcast" id="214" weight="1.0" />
+      <edge source="data-driven marketing" target="hotel search" id="215" weight="1.0" />
+      <edge source="data-driven marketing" target="travelboom" id="216" weight="1.0" />
+      <edge source="demand" target="supply" id="217" weight="1.0" />
+      <edge source="destinations" target="pre-pandemic levels" id="218" weight="1.0" />
+      <edge source="digital marketing" target="hotel marketing" id="219" weight="1.0" />
+      <edge source="digital marketing" target="hotel marketing podcast" id="220" weight="1.0" />
+      <edge source="digital marketing" target="hotel website" id="221" weight="1.0" />
+      <edge source="digital marketing" target="travelboom" id="222" weight="1.0" />
+      <edge source="digital transformation" target="global operations" id="223" weight="1.0" />
+      <edge source="direct booking" target="direct bookings" id="224" weight="1.0" />
+      <edge source="direct booking" target="hotel booking" id="225" weight="1.0" />
+      <edge source="direct booking" target="online booking" id="226" weight="1.0" />
+      <edge source="direct booking" target="otas" id="227" weight="1.0" />
+      <edge source="direct bookings" target="hotel marketing" id="228" weight="1.0" />
+      <edge source="direct bookings" target="hotel marketing podcast" id="229" weight="1.0" />
+      <edge source="direct bookings" target="hotel search" id="230" weight="1.0" />
+      <edge source="direct bookings" target="online booking" id="231" weight="1.0" />
+      <edge source="direct bookings" target="ota" id="232" weight="1.0" />
+      <edge source="direct bookings" target="otas" id="233" weight="1.0" />
+      <edge source="direct bookings" target="travelboom" id="234" weight="1.0" />
+      <edge source="direct bookings" target="hotel website" id="235" weight="5" />
+      <edge source="distribution" target="hospitality business intelligence" id="236" weight="1.0" />
+      <edge source="distribution" target="hotel property management" id="237" weight="1.0" />
+      <edge source="distribution" target="international experts" id="238" weight="1.0" />
+      <edge source="distribution" target="ota insight" id="239" weight="1.0" />
+      <edge source="distribution" target="otainsight" id="240" weight="1.0" />
+      <edge source="distribution" target="parity intelligence" id="241" weight="1.0" />
+      <edge source="distribution" target="revenue intelligence" id="242" weight="1.0" />
+      <edge source="economic growth" target="travel &amp; tourism" id="243" weight="1.0" />
+      <edge source="economic impact" target="employment" id="244" weight="1.0" />
+      <edge source="economic impact" target="hvs market report" id="245" weight="1.0" />
+      <edge source="economic impact" target="job creation" id="246" weight="1.0" />
+      <edge source="economic impact" target="jobs" id="247" weight="1.0" />
+      <edge source="economic impact" target="travel &amp; tourism" id="248" weight="1.0" />
+      <edge source="economic impact" target="wttc" id="249" weight="1.0" />
+      <edge source="email" target="lead generation" id="250" weight="1.0" />
+      <edge source="emea" target="guest feedback" id="251" weight="1.0" />
+      <edge source="emea" target="guest reviews" id="252" weight="1.0" />
+      <edge source="emea" target="gx platform" id="253" weight="1.0" />
+      <edge source="emea" target="hotel reviews" id="254" weight="1.0" />
+      <edge source="emea" target="instant response" id="255" weight="1.0" />
+      <edge source="emea" target="reviews" id="256" weight="1.0" />
+      <edge source="emea" target="travel data" id="257" weight="1.0" />
+      <edge source="emea" target="trustyou" id="258" weight="1.0" />
+      <edge source="emea" target="online reviews" id="259" weight="5" />
+      <edge source="emea" target="feedback" id="260" weight="5" />
+      <edge source="emea" target="guest satisfaction" id="261" weight="5" />
+      <edge source="employment" target="global tourism" id="262" weight="1.0" />
+      <edge source="employment" target="job creation" id="263" weight="1.0" />
+      <edge source="employment" target="job market" id="264" weight="1.0" />
+      <edge source="employment" target="job search" id="265" weight="1.0" />
+      <edge source="employment" target="jobs" id="266" weight="1.0" />
+      <edge source="employment" target="transportation" id="267" weight="1.0" />
+      <edge source="employment" target="travel &amp; tourism" id="268" weight="1.0" />
+      <edge source="employment" target="wttc" id="269" weight="1.0" />
+      <edge source="employment" target="talent" id="270" weight="5" />
+      <edge source="energy efficiency" target="renewable energy" id="271" weight="1.0" />
+      <edge source="environmental impact" target="renewable energy" id="272" weight="1.0" />
+      <edge source="environmental impact" target="sustainable tourism" id="273" weight="1.0" />
+      <edge source="europe" target="international arrivals" id="274" weight="1.0" />
+      <edge source="expertise" target="global network" id="275" weight="1.0" />
+      <edge source="expertise" target="hotel transactions" id="276" weight="1.0" />
+      <edge source="expertise" target="newsletter" id="277" weight="1.0" />
+      <edge source="expertise" target="services" id="278" weight="1.0" />
+      <edge source="expertise" target="valuation" id="279" weight="1.0" />
+      <edge source="expertise" target="valuation services" id="280" weight="1.0" />
+      <edge source="feasibility studies" target="hotel supply" id="281" weight="1.0" />
+      <edge source="feasibility studies" target="hvs market report" id="282" weight="1.0" />
+      <edge source="feasibility studies" target="supply" id="283" weight="1.0" />
+      <edge source="feedback" target="guest feedback" id="284" weight="1.0" />
+      <edge source="feedback" target="guest reviews" id="285" weight="1.0" />
+      <edge source="feedback" target="guest satisfaction" id="286" weight="1.0" />
+      <edge source="feedback" target="gx platform" id="287" weight="1.0" />
+      <edge source="feedback" target="hotel reviews" id="288" weight="1.0" />
+      <edge source="feedback" target="instant response" id="289" weight="1.0" />
+      <edge source="feedback" target="online reviews" id="290" weight="1.0" />
+      <edge source="feedback" target="reviews" id="291" weight="1.0" />
+      <edge source="feedback" target="travel data" id="292" weight="1.0" />
+      <edge source="feedback" target="trustyou" id="293" weight="1.0" />
+      <edge source="fitness centre" target="newsletter" id="294" weight="1.0" />
+      <edge source="future" target="metaverse" id="295" weight="1.0" />
+      <edge source="generative ai" target="machine learning" id="296" weight="1.0" />
+      <edge source="generative ai" target="openai" id="297" weight="1.0" />
+      <edge source="global economics" target="global economy" id="298" weight="1.0" />
+      <edge source="global economy" target="travel &amp; tourism" id="299" weight="1.0" />
+      <edge source="global economy" target="wttc" id="300" weight="1.0" />
+      <edge source="global hospitality" target="international headquarters" id="301" weight="1.0" />
+      <edge source="global hospitality" target="marketplace insights" id="302" weight="1.0" />
+      <edge source="global hospitality" target="real estate information" id="303" weight="1.0" />
+      <edge source="global hospitality" target="u.s. hotel performance" id="304" weight="1.0" />
+      <edge source="global network" target="hospitality business intelligence" id="305" weight="1.0" />
+      <edge source="global network" target="hotel property management" id="306" weight="1.0" />
+      <edge source="global network" target="hotel transactions" id="307" weight="1.0" />
+      <edge source="global network" target="international experts" id="308" weight="1.0" />
+      <edge source="global network" target="market intelligence" id="309" weight="1.0" />
+      <edge source="global network" target="newsletter" id="310" weight="1.0" />
+      <edge source="global network" target="ota insight" id="311" weight="1.0" />
+      <edge source="global network" target="otainsight" id="312" weight="1.0" />
+      <edge source="global network" target="parity intelligence" id="313" weight="1.0" />
+      <edge source="global network" target="revenue intelligence" id="314" weight="1.0" />
+      <edge source="global network" target="services" id="315" weight="1.0" />
+      <edge source="global network" target="valuation services" id="316" weight="1.0" />
+      <edge source="global network" target="pricing" id="317" weight="5" />
+      <edge source="global tourism" target="international arrivals" id="318" weight="1.0" />
+      <edge source="global tourism" target="job creation" id="319" weight="1.0" />
+      <edge source="global tourism" target="jobs" id="320" weight="1.0" />
+      <edge source="global tourism" target="travel &amp; tourism" id="321" weight="1.0" />
+      <edge source="global tourism" target="wttc" id="322" weight="1.0" />
+      <edge source="google" target="hotel reviews" id="323" weight="1.0" />
+      <edge source="google" target="hotel website" id="324" weight="1.0" />
+      <edge source="google" target="instant response" id="325" weight="1.0" />
+      <edge source="google" target="reviews" id="326" weight="1.0" />
+      <edge source="google" target="search engine" id="327" weight="1.0" />
+      <edge source="google" target="search engine optimization" id="328" weight="1.0" />
+      <edge source="google" target="guest feedback" id="329" weight="5" />
+      <edge source="google" target="gx platform" id="330" weight="5" />
+      <edge source="group demand" target="leisure demand" id="331" weight="1.0" />
+      <edge source="group demand" target="occupancy growth" id="332" weight="1.0" />
+      <edge source="group demand" target="supply" id="333" weight="1.0" />
+      <edge source="group demand" target="weekday occupancy" id="334" weight="1.0" />
+      <edge source="group demand" target="weekend occupancy" id="335" weight="1.0" />
+      <edge source="group travel" target="occupancy growth" id="336" weight="1.0" />
+      <edge source="guest experience" target="guest feedback" id="337" weight="1.0" />
+      <edge source="guest experience" target="gx platform" id="338" weight="1.0" />
+      <edge source="guest feedback" target="guest reviews" id="339" weight="1.0" />
+      <edge source="guest feedback" target="guest satisfaction" id="340" weight="1.0" />
+      <edge source="guest feedback" target="gx platform" id="341" weight="1.0" />
+      <edge source="guest feedback" target="hotel reviews" id="342" weight="1.0" />
+      <edge source="guest feedback" target="instant response" id="343" weight="1.0" />
+      <edge source="guest feedback" target="international arrivals" id="344" weight="1.0" />
+      <edge source="guest feedback" target="online reviews" id="345" weight="1.0" />
+      <edge source="guest feedback" target="reviews" id="346" weight="1.0" />
+      <edge source="guest feedback" target="travel data" id="347" weight="1.0" />
+      <edge source="guest feedback" target="trustyou" id="348" weight="1.0" />
+      <edge source="guest feedback" target="travelers" id="349" weight="5" />
+      <edge source="guest reviews" target="guest satisfaction" id="350" weight="1.0" />
+      <edge source="guest reviews" target="gx platform" id="351" weight="1.0" />
+      <edge source="guest reviews" target="hotel reviews" id="352" weight="1.0" />
+      <edge source="guest reviews" target="instant response" id="353" weight="1.0" />
+      <edge source="guest reviews" target="online reviews" id="354" weight="1.0" />
+      <edge source="guest reviews" target="reviews" id="355" weight="1.0" />
+      <edge source="guest reviews" target="travel data" id="356" weight="1.0" />
+      <edge source="guest reviews" target="traveler" id="357" weight="1.0" />
+      <edge source="guest reviews" target="trustyou" id="358" weight="1.0" />
+      <edge source="guest satisfaction" target="gx platform" id="359" weight="1.0" />
+      <edge source="guest satisfaction" target="hotel reviews" id="360" weight="1.0" />
+      <edge source="guest satisfaction" target="instant response" id="361" weight="1.0" />
+      <edge source="guest satisfaction" target="reviews" id="362" weight="1.0" />
+      <edge source="guest satisfaction" target="travel data" id="363" weight="1.0" />
+      <edge source="guest satisfaction" target="trustyou" id="364" weight="1.0" />
+      <edge source="guest satisfaction" target="online reviews" id="365" weight="5" />
+      <edge source="guest service" target="hotel management system" id="366" weight="1.0" />
+      <edge source="guest service" target="hotel pms" id="367" weight="1.0" />
+      <edge source="guest service" target="hotel sales" id="368" weight="1.0" />
+      <edge source="guest service" target="reservation" id="369" weight="1.0" />
+      <edge source="guest service" target="self-service" id="370" weight="1.0" />
+      <edge source="guest service" target="training" id="371" weight="1.0" />
+      <edge source="gx platform" target="hotel reviews" id="372" weight="1.0" />
+      <edge source="gx platform" target="hotel website" id="373" weight="1.0" />
+      <edge source="gx platform" target="instant response" id="374" weight="1.0" />
+      <edge source="gx platform" target="international arrivals" id="375" weight="1.0" />
+      <edge source="gx platform" target="online reviews" id="376" weight="1.0" />
+      <edge source="gx platform" target="reviews" id="377" weight="1.0" />
+      <edge source="gx platform" target="survey" id="378" weight="1.0" />
+      <edge source="gx platform" target="travel data" id="379" weight="1.0" />
+      <edge source="gx platform" target="travelers" id="380" weight="1.0" />
+      <edge source="gx platform" target="trustyou" id="381" weight="1.0" />
+      <edge source="holiday" target="weekend occupancy" id="382" weight="1.0" />
+      <edge source="hospitality business intelligence" target="hotel booking" id="383" weight="1.0" />
+      <edge source="hospitality business intelligence" target="hotel property management" id="384" weight="1.0" />
+      <edge source="hospitality business intelligence" target="hotel revenue management" id="385" weight="1.0" />
+      <edge source="hospitality business intelligence" target="hotel search" id="386" weight="1.0" />
+      <edge source="hospitality business intelligence" target="international experts" id="387" weight="1.0" />
+      <edge source="hospitality business intelligence" target="market intelligence" id="388" weight="1.0" />
+      <edge source="hospitality business intelligence" target="market occupancy" id="389" weight="1.0" />
+      <edge source="hospitality business intelligence" target="ota" id="390" weight="1.0" />
+      <edge source="hospitality business intelligence" target="ota insight" id="391" weight="1.0" />
+      <edge source="hospitality business intelligence" target="otainsight" id="392" weight="1.0" />
+      <edge source="hospitality business intelligence" target="parity intelligence" id="393" weight="1.0" />
+      <edge source="hospitality business intelligence" target="pricing" id="394" weight="1.0" />
+      <edge source="hospitality business intelligence" target="revenue intelligence" id="395" weight="1.0" />
+      <edge source="hospitality business intelligence" target="seasonality" id="396" weight="1.0" />
+      <edge source="hospitality technology" target="hotel management system" id="397" weight="1.0" />
+      <edge source="hospitality technology" target="hotel pms" id="398" weight="1.0" />
+      <edge source="hospitality technology" target="hotel systems" id="399" weight="1.0" />
+      <edge source="hospitality technology" target="integration" id="400" weight="1.0" />
+      <edge source="hospitality technology" target="multi-property" id="401" weight="1.0" />
+      <edge source="hospitality technology" target="networking" id="402" weight="1.0" />
+      <edge source="hospitality technology" target="onboarding" id="403" weight="1.0" />
+      <edge source="hospitality technology" target="property management system" id="404" weight="1.0" />
+      <edge source="hospitality technology" target="support" id="405" weight="1.0" />
+      <edge source="hospitality technology" target="on-premises" id="406" weight="5" />
+      <edge source="hospitality technology" target="pms" id="407" weight="5" />
+      <edge source="hotel booking" target="hotel search" id="408" weight="1.0" />
+      <edge source="hotel management system" target="hotel pms" id="409" weight="1.0" />
+      <edge source="hotel management system" target="hotel systems" id="410" weight="1.0" />
+      <edge source="hotel management system" target="integration" id="411" weight="1.0" />
+      <edge source="hotel management system" target="maestro" id="412" weight="1.0" />
+      <edge source="hotel management system" target="multi-property" id="413" weight="1.0" />
+      <edge source="hotel management system" target="networking" id="414" weight="1.0" />
+      <edge source="hotel management system" target="on-premises" id="415" weight="1.0" />
+      <edge source="hotel management system" target="pms" id="416" weight="1.0" />
+      <edge source="hotel management system" target="property management system" id="417" weight="1.0" />
+      <edge source="hotel market" target="hvs market report" id="418" weight="1.0" />
+      <edge source="hotel marketing" target="hotel marketing podcast" id="419" weight="1.0" />
+      <edge source="hotel marketing" target="travelboom" id="420" weight="1.0" />
+      <edge source="hotel marketing podcast" target="hotel search" id="421" weight="1.0" />
+      <edge source="hotel marketing podcast" target="hotel website" id="422" weight="1.0" />
+      <edge source="hotel marketing podcast" target="travelboom" id="423" weight="1.0" />
+      <edge source="hotel openings" target="hotel projects" id="424" weight="1.0" />
+      <edge source="hotel openings" target="pipeline" id="425" weight="1.0" />
+      <edge source="hotel openings" target="project" id="426" weight="1.0" />
+      <edge source="hotel openings" target="rooms" id="427" weight="1.0" />
+      <edge source="hotel performance" target="u.s. hotel performance" id="428" weight="1.0" />
+      <edge source="hotel pms" target="hotel systems" id="429" weight="1.0" />
+      <edge source="hotel pms" target="integration" id="430" weight="1.0" />
+      <edge source="hotel pms" target="maestro" id="431" weight="1.0" />
+      <edge source="hotel pms" target="mobile app" id="432" weight="1.0" />
+      <edge source="hotel pms" target="multi-property" id="433" weight="1.0" />
+      <edge source="hotel pms" target="on-premises" id="434" weight="1.0" />
+      <edge source="hotel pms" target="platform" id="435" weight="1.0" />
+      <edge source="hotel pms" target="pms" id="436" weight="1.0" />
+      <edge source="hotel pms" target="property management system" id="437" weight="1.0" />
+      <edge source="hotel projects" target="pipeline" id="438" weight="1.0" />
+      <edge source="hotel projects" target="project" id="439" weight="1.0" />
+      <edge source="hotel projects" target="rooms" id="440" weight="1.0" />
+      <edge source="hotel property management" target="hotel revenue management" id="441" weight="1.0" />
+      <edge source="hotel property management" target="hotel search" id="442" weight="1.0" />
+      <edge source="hotel property management" target="international experts" id="443" weight="1.0" />
+      <edge source="hotel property management" target="market intelligence" id="444" weight="1.0" />
+      <edge source="hotel property management" target="market occupancy" id="445" weight="1.0" />
+      <edge source="hotel property management" target="ota" id="446" weight="1.0" />
+      <edge source="hotel property management" target="ota insight" id="447" weight="1.0" />
+      <edge source="hotel property management" target="otainsight" id="448" weight="1.0" />
+      <edge source="hotel property management" target="parity intelligence" id="449" weight="1.0" />
+      <edge source="hotel property management" target="pricing" id="450" weight="1.0" />
+      <edge source="hotel property management" target="revenue intelligence" id="451" weight="1.0" />
+      <edge source="hotel property management" target="seasonality" id="452" weight="1.0" />
+      <edge source="hotel reservation" target="hotel reservations" id="453" weight="1.0" />
+      <edge source="hotel reservation" target="reservation" id="454" weight="5" />
+      <edge source="hotel reservations" target="reservation" id="455" weight="1.0" />
+      <edge source="hotel revenue management" target="international experts" id="456" weight="1.0" />
+      <edge source="hotel revenue management" target="market intelligence" id="457" weight="1.0" />
+      <edge source="hotel revenue management" target="ota insight" id="458" weight="1.0" />
+      <edge source="hotel revenue management" target="otainsight" id="459" weight="1.0" />
+      <edge source="hotel revenue management" target="parity intelligence" id="460" weight="1.0" />
+      <edge source="hotel revenue management" target="revenue generation" id="461" weight="1.0" />
+      <edge source="hotel revenue management" target="revenue intelligence" id="462" weight="1.0" />
+      <edge source="hotel revenue management" target="revenue management" id="463" weight="1.0" />
+      <edge source="hotel revenue management" target="market occupancy" id="464" weight="5" />
+      <edge source="hotel reviews" target="hotel website" id="465" weight="1.0" />
+      <edge source="hotel reviews" target="instant response" id="466" weight="1.0" />
+      <edge source="hotel reviews" target="online reviews" id="467" weight="1.0" />
+      <edge source="hotel reviews" target="reviews" id="468" weight="1.0" />
+      <edge source="hotel reviews" target="travel data" id="469" weight="1.0" />
+      <edge source="hotel reviews" target="trustyou" id="470" weight="1.0" />
+      <edge source="hotel reviews" target="international arrivals" id="471" weight="5" />
+      <edge source="hotel search" target="hotel website" id="472" weight="1.0" />
+      <edge source="hotel search" target="international experts" id="473" weight="1.0" />
+      <edge source="hotel search" target="market intelligence" id="474" weight="1.0" />
+      <edge source="hotel search" target="ota" id="475" weight="1.0" />
+      <edge source="hotel search" target="ota insight" id="476" weight="1.0" />
+      <edge source="hotel search" target="otainsight" id="477" weight="1.0" />
+      <edge source="hotel search" target="otas" id="478" weight="1.0" />
+      <edge source="hotel search" target="parity intelligence" id="479" weight="1.0" />
+      <edge source="hotel search" target="revenue intelligence" id="480" weight="1.0" />
+      <edge source="hotel search" target="search engine" id="481" weight="1.0" />
+      <edge source="hotel search" target="search engine optimization" id="482" weight="1.0" />
+      <edge source="hotel search" target="travelboom" id="483" weight="1.0" />
+      <edge source="hotel software" target="software" id="484" weight="1.0" />
+      <edge source="hotel supply" target="hvs market report" id="485" weight="1.0" />
+      <edge source="hotel systems" target="hotel technology" id="486" weight="1.0" />
+      <edge source="hotel systems" target="integration" id="487" weight="1.0" />
+      <edge source="hotel systems" target="maestro" id="488" weight="1.0" />
+      <edge source="hotel systems" target="multi-property" id="489" weight="1.0" />
+      <edge source="hotel systems" target="networking" id="490" weight="1.0" />
+      <edge source="hotel systems" target="on-premises" id="491" weight="1.0" />
+      <edge source="hotel systems" target="platform" id="492" weight="1.0" />
+      <edge source="hotel systems" target="pms" id="493" weight="1.0" />
+      <edge source="hotel systems" target="property management system" id="494" weight="1.0" />
+      <edge source="hotel systems" target="self-service" id="495" weight="1.0" />
+      <edge source="hotel systems" target="support" id="496" weight="1.0" />
+      <edge source="hotel technology" target="multi-property" id="497" weight="1.0" />
+      <edge source="hotel transactions" target="valuation services" id="498" weight="1.0" />
+      <edge source="hotel website" target="instant response" id="499" weight="1.0" />
+      <edge source="hotel website" target="otas" id="500" weight="1.0" />
+      <edge source="hotel website" target="revenue generation" id="501" weight="1.0" />
+      <edge source="hotel website" target="reviews" id="502" weight="1.0" />
+      <edge source="hotel website" target="search engine" id="503" weight="1.0" />
+      <edge source="hotel website" target="search engine optimization" id="504" weight="1.0" />
+      <edge source="hotel website" target="travelboom" id="505" weight="1.0" />
+      <edge source="hotel website" target="user experience" id="506" weight="1.0" />
+      <edge source="instant response" target="international arrivals" id="507" weight="1.0" />
+      <edge source="instant response" target="online reviews" id="508" weight="1.0" />
+      <edge source="instant response" target="reviews" id="509" weight="1.0" />
+      <edge source="instant response" target="survey" id="510" weight="1.0" />
+      <edge source="instant response" target="travel data" id="511" weight="1.0" />
+      <edge source="instant response" target="traveler" id="512" weight="1.0" />
+      <edge source="instant response" target="travelers" id="513" weight="1.0" />
+      <edge source="instant response" target="trustyou" id="514" weight="1.0" />
+      <edge source="integration" target="maestro" id="515" weight="1.0" />
+      <edge source="integration" target="multi-property" id="516" weight="1.0" />
+      <edge source="integration" target="networking" id="517" weight="1.0" />
+      <edge source="integration" target="on-premises" id="518" weight="1.0" />
+      <edge source="integration" target="pms" id="519" weight="1.0" />
+      <edge source="integration" target="support" id="520" weight="1.0" />
+      <edge source="international arrivals" target="pre-pandemic levels" id="521" weight="1.0" />
+      <edge source="international arrivals" target="travel data" id="522" weight="1.0" />
+      <edge source="international arrivals" target="trustyou" id="523" weight="1.0" />
+      <edge source="international arrivals" target="reviews" id="524" weight="5" />
+      <edge source="international experts" target="market intelligence" id="525" weight="1.0" />
+      <edge source="international experts" target="market occupancy" id="526" weight="1.0" />
+      <edge source="international experts" target="ota" id="527" weight="1.0" />
+      <edge source="international experts" target="ota insight" id="528" weight="1.0" />
+      <edge source="international experts" target="otainsight" id="529" weight="1.0" />
+      <edge source="international experts" target="parity intelligence" id="530" weight="1.0" />
+      <edge source="international experts" target="pricing" id="531" weight="1.0" />
+      <edge source="international experts" target="revenue intelligence" id="532" weight="1.0" />
+      <edge source="international experts" target="seasonality" id="533" weight="1.0" />
+      <edge source="international headquarters" target="marketplace insights" id="534" weight="1.0" />
+      <edge source="international headquarters" target="occupancy level" id="535" weight="1.0" />
+      <edge source="international headquarters" target="real estate information" id="536" weight="1.0" />
+      <edge source="international headquarters" target="str" id="537" weight="1.0" />
+      <edge source="international headquarters" target="u.s. hotel performance" id="538" weight="1.0" />
+      <edge source="job creation" target="job search" id="539" weight="1.0" />
+      <edge source="job creation" target="jobs" id="540" weight="1.0" />
+      <edge source="job creation" target="travel &amp; tourism" id="541" weight="1.0" />
+      <edge source="job creation" target="wttc" id="542" weight="1.0" />
+      <edge source="job market" target="job search" id="543" weight="1.0" />
+      <edge source="job market" target="jobs" id="544" weight="1.0" />
+      <edge source="job market" target="talent" id="545" weight="1.0" />
+      <edge source="job market" target="transportation" id="546" weight="1.0" />
+      <edge source="job search" target="jobs" id="547" weight="1.0" />
+      <edge source="job search" target="talent" id="548" weight="1.0" />
+      <edge source="job search" target="transportation" id="549" weight="1.0" />
+      <edge source="jobs" target="transportation" id="550" weight="1.0" />
+      <edge source="jobs" target="travel &amp; tourism" id="551" weight="1.0" />
+      <edge source="jobs" target="wttc" id="552" weight="1.0" />
+      <edge source="jobs" target="talent" id="553" weight="5" />
+      <edge source="knowledge acquisition" target="media" id="554" weight="1.0" />
+      <edge source="knowledge acquisition" target="openai" id="555" weight="1.0" />
+      <edge source="knowledge acquisition" target="strategy" id="556" weight="1.0" />
+      <edge source="knowledge acquisition" target="travel technology" id="557" weight="1.0" />
+      <edge source="leisure demand" target="occupancy growth" id="558" weight="5" />
+      <edge source="leisure demand" target="weekend occupancy" id="559" weight="5" />
+      <edge source="machine learning" target="openai" id="560" weight="1.0" />
+      <edge source="maestro" target="mobile" id="561" weight="1.0" />
+      <edge source="maestro" target="multi-property" id="562" weight="1.0" />
+      <edge source="maestro" target="on-premises" id="563" weight="1.0" />
+      <edge source="maestro" target="onboarding" id="564" weight="1.0" />
+      <edge source="maestro" target="platform" id="565" weight="1.0" />
+      <edge source="maestro" target="pms" id="566" weight="1.0" />
+      <edge source="market" target="market occupancy" id="567" weight="1.0" />
+      <edge source="market intelligence" target="ota" id="568" weight="1.0" />
+      <edge source="market intelligence" target="ota insight" id="569" weight="1.0" />
+      <edge source="market intelligence" target="otainsight" id="570" weight="1.0" />
+      <edge source="market intelligence" target="parity intelligence" id="571" weight="1.0" />
+      <edge source="market intelligence" target="pricing" id="572" weight="1.0" />
+      <edge source="market intelligence" target="revenue intelligence" id="573" weight="1.0" />
+      <edge source="market occupancy" target="market share" id="574" weight="1.0" />
+      <edge source="market occupancy" target="occupancy level" id="575" weight="1.0" />
+      <edge source="market occupancy" target="ota insight" id="576" weight="1.0" />
+      <edge source="market occupancy" target="otainsight" id="577" weight="1.0" />
+      <edge source="market occupancy" target="parity intelligence" id="578" weight="1.0" />
+      <edge source="market occupancy" target="revenue intelligence" id="579" weight="1.0" />
+      <edge source="market occupancy" target="supply" id="580" weight="1.0" />
+      <edge source="market occupancy" target="top 25 markets" id="581" weight="1.0" />
+      <edge source="market occupancy" target="weekday occupancy" id="582" weight="1.0" />
+      <edge source="market occupancy" target="weekend occupancy" id="583" weight="1.0" />
+      <edge source="market occupancy" target="occupancy growth" id="584" weight="5" />
+      <edge source="market share" target="markets" id="585" weight="1.0" />
+      <edge source="market share" target="occupancy level" id="586" weight="1.0" />
+      <edge source="marketplace insights" target="real estate information" id="587" weight="1.0" />
+      <edge source="marketplace insights" target="str" id="588" weight="1.0" />
+      <edge source="marketplace insights" target="u.s. hotel performance" id="589" weight="1.0" />
+      <edge source="marketplace insights" target="occupancy level" id="590" weight="5" />
+      <edge source="markets" target="occupancy level" id="591" weight="5" />
+      <edge source="media" target="strategy" id="592" weight="1.0" />
+      <edge source="media" target="travel technology" id="593" weight="1.0" />
+      <edge source="metaverse" target="virtual reality" id="594" weight="1.0" />
+      <edge source="mobile" target="on-premises" id="595" weight="1.0" />
+      <edge source="multi-property" target="networking" id="596" weight="1.0" />
+      <edge source="multi-property" target="on-premises" id="597" weight="1.0" />
+      <edge source="multi-property" target="onboarding" id="598" weight="1.0" />
+      <edge source="multi-property" target="platform" id="599" weight="1.0" />
+      <edge source="multi-property" target="pms" id="600" weight="1.0" />
+      <edge source="multi-property" target="property management system" id="601" weight="1.0" />
+      <edge source="multi-property" target="support" id="602" weight="1.0" />
+      <edge source="networking" target="support" id="603" weight="1.0" />
+      <edge source="new york city" target="weekend occupancy" id="604" weight="1.0" />
+      <edge source="newsletter" target="services" id="605" weight="1.0" />
+      <edge source="newsletter" target="singapore" id="606" weight="1.0" />
+      <edge source="newsletter" target="valuation" id="607" weight="1.0" />
+      <edge source="newsletter" target="valuation services" id="608" weight="1.0" />
+      <edge source="occupancy growth" target="revenue per available room" id="609" weight="1.0" />
+      <edge source="occupancy growth" target="supply" id="610" weight="1.0" />
+      <edge source="occupancy growth" target="top 25 markets" id="611" weight="1.0" />
+      <edge source="occupancy growth" target="weekday occupancy" id="612" weight="1.0" />
+      <edge source="occupancy growth" target="weekend occupancy" id="613" weight="1.0" />
+      <edge source="occupancy growth" target="yoy" id="614" weight="5" />
+      <edge source="occupancy level" target="real estate information" id="615" weight="1.0" />
+      <edge source="occupancy level" target="san francisco" id="616" weight="1.0" />
+      <edge source="on-premises" target="onboarding" id="617" weight="1.0" />
+      <edge source="on-premises" target="platform" id="618" weight="1.0" />
+      <edge source="on-premises" target="pms" id="619" weight="1.0" />
+      <edge source="on-premises" target="property management system" id="620" weight="1.0" />
+      <edge source="online reviews" target="otas" id="621" weight="1.0" />
+      <edge source="online reviews" target="reviews" id="622" weight="1.0" />
+      <edge source="online reviews" target="trustyou" id="623" weight="1.0" />
+      <edge source="online reviews" target="travel data" id="624" weight="5" />
+      <edge source="ota" target="ota insight" id="625" weight="1.0" />
+      <edge source="ota" target="otainsight" id="626" weight="1.0" />
+      <edge source="ota" target="otas" id="627" weight="1.0" />
+      <edge source="ota" target="parity intelligence" id="628" weight="1.0" />
+      <edge source="ota" target="revenue intelligence" id="629" weight="1.0" />
+      <edge source="ota" target="pricing" id="630" weight="5" />
+      <edge source="ota insight" target="otainsight" id="631" weight="1.0" />
+      <edge source="ota insight" target="parity intelligence" id="632" weight="1.0" />
+      <edge source="ota insight" target="pricing" id="633" weight="1.0" />
+      <edge source="ota insight" target="revenue intelligence" id="634" weight="1.0" />
+      <edge source="otainsight" target="parity intelligence" id="635" weight="1.0" />
+      <edge source="otainsight" target="pricing" id="636" weight="1.0" />
+      <edge source="otainsight" target="revenue intelligence" id="637" weight="1.0" />
+      <edge source="otainsight" target="seasonality" id="638" weight="1.0" />
+      <edge source="parity intelligence" target="pricing" id="639" weight="1.0" />
+      <edge source="parity intelligence" target="revenue intelligence" id="640" weight="1.0" />
+      <edge source="parity intelligence" target="seasonality" id="641" weight="1.0" />
+      <edge source="pipeline" target="rooms" id="642" weight="1.0" />
+      <edge source="pms" target="property management system" id="643" weight="1.0" />
+      <edge source="pricing" target="revenue intelligence" id="644" weight="1.0" />
+      <edge source="project" target="rooms" id="645" weight="1.0" />
+      <edge source="real estate information" target="str" id="646" weight="1.0" />
+      <edge source="real estate information" target="u.s. hotel performance" id="647" weight="1.0" />
+      <edge source="region" target="travel &amp; tourism" id="648" weight="1.0" />
+      <edge source="region" target="wttc" id="649" weight="1.0" />
+      <edge source="renewable energy" target="sustainable tourism" id="650" weight="1.0" />
+      <edge source="reservation" target="revenue generation" id="651" weight="1.0" />
+      <edge source="revenue intelligence" target="seasonality" id="652" weight="1.0" />
+      <edge source="revenue per available room (revpar)" target="u.s. hotel performance" id="653" weight="1.0" />
+      <edge source="revenue per available room (revpar)" target="weekday occupancy" id="654" weight="1.0" />
+      <edge source="revenue per available room (revpar)" target="weekend occupancy" id="655" weight="1.0" />
+      <edge source="reviews" target="search engine optimization" id="656" weight="1.0" />
+      <edge source="reviews" target="travel data" id="657" weight="1.0" />
+      <edge source="reviews" target="trustyou" id="658" weight="1.0" />
+      <edge source="rooms" target="yoy" id="659" weight="1.0" />
+      <edge source="san francisco" target="u.s. hotel performance" id="660" weight="1.0" />
+      <edge source="search engine" target="search engine optimization" id="661" weight="1.0" />
+      <edge source="services" target="valuation" id="662" weight="1.0" />
+      <edge source="services" target="valuation services" id="663" weight="1.0" />
+      <edge source="storytelling" target="transformation" id="664" weight="1.0" />
+      <edge source="storytelling" target="travel technology" id="665" weight="1.0" />
+      <edge source="supply" target="top 25 markets" id="666" weight="1.0" />
+      <edge source="supply" target="weekday occupancy" id="667" weight="1.0" />
+      <edge source="supply" target="weekend occupancy" id="668" weight="1.0" />
+      <edge source="supply" target="yoy" id="669" weight="1.0" />
+      <edge source="sustainable tourism" target="travel &amp; tourism" id="670" weight="1.0" />
+      <edge source="sustainable tourism" target="wttc" id="671" weight="1.0" />
+      <edge source="top 25 markets" target="u.s. hotel performance" id="672" weight="1.0" />
+      <edge source="top 25 markets" target="weekday occupancy" id="673" weight="1.0" />
+      <edge source="top 25 markets" target="weekend occupancy" id="674" weight="1.0" />
+      <edge source="transformation" target="travel technology" id="675" weight="1.0" />
+      <edge source="travel &amp; tourism" target="wttc" id="676" weight="1.0" />
+      <edge source="travel data" target="trustyou" id="677" weight="1.0" />
+      <edge source="valuation" target="valuation services" id="678" weight="1.0" />
+      <edge source="weekday occupancy" target="weekend occupancy" id="679" weight="1.0" />
+      <edge source="weekday occupancy" target="yoy" id="680" weight="1.0" />
+      <edge source="weekend occupancy" target="yoy" id="681" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
