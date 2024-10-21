@@ -69,13 +69,13 @@ The purpose of this task is to categorize the types of keywords.
 </p>
 </div>  
 
-        |              | Median              |                  |         | Mean               |                  |         |
-        |--------------|---------------------|------------------|---------|--------------------|------------------|---------|
-        |              | Degree              | Betweenness       | Share   | Degree             | Betweenness       | Share   |
-        | Emerging     | 40                  | 43               | 54      | 40                 | 55               | 60      |
-        | Hot          | 58                  | 55               | 44      | 37                 | 22               | 17      |
-        | Mature       | 40                  | 43               | 54      | 42                 | 25               | 40      |
-        | Niche        | 58                  | 55               | 44      | 77                 | 94               | 79      |
+|              | Median              |                  |         | Mean               |                  |         |
+|--------------|---------------------|------------------|---------|--------------------|------------------|---------|
+|              | Degree              | Betweenness       | Share   | Degree             | Betweenness       | Share   |
+| Emerging     | 40                  | 43               | 54      | 40                 | 55               | 60      |
+| Hot          | 58                  | 55               | 44      | 37                 | 22               | 17      |
+| Mature       | 40                  | 43               | 54      | 42                 | 25               | 40      |
+| Niche        | 58                  | 55               | 44      | 77                 | 94               | 79      |
 
 
 
