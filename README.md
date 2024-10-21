@@ -17,17 +17,17 @@ The purpose of this task is to categorize the types of keywords.
 
 1. **Market Share**: The ratio of a specific keyword's frequency to the total frequency of all keywords in each quarter.
 
-   <img src="https://render.githubusercontent.com/render/math?math=\text{Share}(k_i%2C%20t)%20%3D%20\frac{\text{Frequency}(keyword_i)}{\sum_{j%3D1}^{n}%20\text{Frequency}(keyword_j)}">
+   `Share(k_i, t) = Frequency(keyword_i) / ∑(j=1 to n) Frequency(keyword_j)`
 
 2. **Growth Rate**: The percentage change in a keyword's frequency compared to the previous quarter.
 
-   <img src="https://render.githubusercontent.com/render/math?math=\text{GrowthRate}(k_i%2C%20t)%20%3D%20\frac{\text{Value}_t%20-%20\text{Value}_{t-1}}{\text{Value}_{t-1}}%20\times%20100">
+   `GrowthRate(k_i, t) = (Value_t - Value_t-1) / Value_t-1 × 100`
 
    For frequency-based growth rate, Value is defined as the frequency.
 
 ## Notation
-- <img src="https://render.githubusercontent.com/render/math?math=keyword_i">: The i-th keyword
-- <img src="https://render.githubusercontent.com/render/math?math=t">: The t-th quarter
+- `keyword_i`: The i-th keyword
+- `t`: The t-th quarter
 
   
 ## File Description
