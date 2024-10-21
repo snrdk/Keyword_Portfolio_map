@@ -21,7 +21,7 @@ The purpose of this task is to categorize the types of keywords.
 
 2. **Growth Rate**: The percentage change in a keyword's frequency compared to the previous quarter.  
    **Formula**:  
-   $$GrowthRate(k_i, t) = \frac{(Value_t - Value_{t-1})}{Value_{t-1}} \times 100$$  
+   $\text{GrowthRate}(k_i, t)=\displaystyle\frac{Value_t}{\text{Value}_{t_1}}\times100$
    For frequency-based growth rate, `Value` is defined as the frequency.
 
 ## Notation
