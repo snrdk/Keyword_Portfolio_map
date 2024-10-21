@@ -26,7 +26,7 @@ The purpose of this task is to categorize the types of keywords.
 ## Notation
 - $keyword_i$: The i-th keyword
 - $t$: The t-th quarter
-
+  
 ## File Description
 
 ### 1. `Keyword_portfolio_map.py`
