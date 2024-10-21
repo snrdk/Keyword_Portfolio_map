@@ -69,13 +69,59 @@ The purpose of this task is to categorize the types of keywords.
 </p>
 </div>  
 
-|              | Median              |                  |         | Mean               |                  |         |
-|--------------|---------------------|------------------|---------|--------------------|------------------|---------|
-|              | Degree              | Betweenness       | Share   | Degree             | Betweenness       | Share   |
-| Emerging     | 40                  | 43               | 54      | 40                 | 55               | 60      |
-| Hot          | 58                  | 55               | 44      | 37                 | 22               | 17      |
-| Mature       | 40                  | 43               | 54      | 42                 | 25               | 40      |
-| Niche        | 58                  | 55               | 44      | 77                 | 94               | 79      |
+<table>
+  <tr>
+    <th></th>
+    <th colspan="3" style="text-align: center;">Median</th>
+    <th colspan="3" style="text-align: center;">Mean</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th style="text-align: center;">Degree</th>
+    <th style="text-align: center;">Betweenness</th>
+    <th style="text-align: center;">Share</th>
+    <th style="text-align: center;">Degree</th>
+    <th style="text-align: center;">Betweenness</th>
+    <th style="text-align: center;">Share</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Emerging</td>
+    <td style="text-align: center;">40</td>
+    <td style="text-align: center;">43</td>
+    <td style="text-align: center;">54</td>
+    <td style="text-align: center;">40</td>
+    <td style="text-align: center;">55</td>
+    <td style="text-align: center;">60</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Hot</td>
+    <td style="text-align: center;">58</td>
+    <td style="text-align: center;">55</td>
+    <td style="text-align: center;">44</td>
+    <td style="text-align: center;">37</td>
+    <td style="text-align: center;">22</td>
+    <td style="text-align: center;">17</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mature</td>
+    <td style="text-align: center;">40</td>
+    <td style="text-align: center;">43</td>
+    <td style="text-align: center;">54</td>
+    <td style="text-align: center;">42</td>
+    <td style="text-align: center;">25</td>
+    <td style="text-align: center;">40</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Niche</td>
+    <td style="text-align: center;">58</td>
+    <td style="text-align: center;">55</td>
+    <td style="text-align: center;">44</td>
+    <td style="text-align: center;">77</td>
+    <td style="text-align: center;">94</td>
+    <td style="text-align: center;">79</td>
+  </tr>
+</table>
+
 
 
 - Among Mean and Median values, using Median as a basis can lead to a more robust distribution of results.
