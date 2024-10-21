@@ -13,19 +13,22 @@ This project is a collection of Python scripts used to generate keyword portfoli
 
 The purpose of this task is to categorize the types of keywords. 
 
+## Key Metrics
+
 1. **Market Share**: The ratio of a specific keyword's frequency to the total frequency of all keywords in each quarter.
 
-   $\text{Share}(k_i, t) = \frac{\text{Frequency}(keyword_i)}{\sum_{j=1}^{n} \text{Frequency}(keyword_j)}$
+   <img src="https://render.githubusercontent.com/render/math?math=\text{Share}(k_i%2C%20t)%20%3D%20\frac{\text{Frequency}(keyword_i)}{\sum_{j%3D1}^{n}%20\text{Frequency}(keyword_j)}">
 
 2. **Growth Rate**: The percentage change in a keyword's frequency compared to the previous quarter.
 
-   $\text{GrowthRate}(k_i, t) = \frac{\text{Value}_t - \text{Value}_{t-1}}{\text{Value}_{t-1}} \times 100$
+   <img src="https://render.githubusercontent.com/render/math?math=\text{GrowthRate}(k_i%2C%20t)%20%3D%20\frac{\text{Value}_t%20-%20\text{Value}_{t-1}}{\text{Value}_{t-1}}%20\times%20100">
 
    For frequency-based growth rate, Value is defined as the frequency.
 
 ## Notation
-- $keyword_i$: The i-th keyword
-- $t$: The t-th quarter
+- <img src="https://render.githubusercontent.com/render/math?math=keyword_i">: The i-th keyword
+- <img src="https://render.githubusercontent.com/render/math?math=t">: The t-th quarter
+
   
 ## File Description
 
