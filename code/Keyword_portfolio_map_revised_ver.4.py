@@ -38,7 +38,7 @@ def calculate_growth_and_share(data):
     
     quarterly_data = pd.DataFrame([metric for metrics in keyword_metrics.values() for metric in metrics])
     
-    # missing value 처리 (전 분기값으로 대체)
+    # Handle missing values (replace with previous quarter's value)
     pivoted_data = quarterly_data.pivot_table(index='Keyword', columns='Quarter', values=['Frequency', 'Share'])
     pivoted_data = pivoted_data.sort_index(axis=1)
     pivoted_data['Frequency'] = pivoted_data['Frequency'].fillna(method='ffill', axis=1)
@@ -58,14 +58,14 @@ def calculate_growth_and_share(data):
     frequency_data.loc[:, 'Frequency'] = frequency_data['Frequency'].fillna(0).astype(int)
     quarterly_data = pd.merge(frequency_data, share_data, on=['Keyword', 'Quarter'])
     
-    # Growth 계산 시 이전 값과 동일한 경우 0으로 설정
+    # Set to 0 when calculating Growth if it is the same as the previous value
     quarterly_data['Growth'] = quarterly_data.groupby('Keyword')['Frequency'].pct_change() * 100
     quarterly_data.loc[quarterly_data['Growth'].isin([np.inf, -np.inf]), 'Growth'] = 0
-    quarterly_data['Share'] = quarterly_data['Share'] * 100 # Share 값을 백분율로 계산
+    quarterly_data['Share'] = quarterly_data['Share'] * 100 # Calculate Share value as a percentage
     
-    keyword_growth_rates = quarterly_data.groupby('Keyword')['Growth'].mean() #조회시점 내 평균 성장률
-    keyword_frequencies = quarterly_data.groupby('Keyword')['Frequency'].sum() #빈도수 합계
-    keyword_shares = quarterly_data.groupby('Keyword')['Share'].last() #조회시점 내 가장 최근 점유율
+    keyword_growth_rates = quarterly_data.groupby('Keyword')['Growth'].mean() # Average growth rate at time of view
+    keyword_frequencies = quarterly_data.groupby('Keyword')['Frequency'].sum() # Sum frequency
+    keyword_shares = quarterly_data.groupby('Keyword')['Share'].last() # Most recent share at time of view
     
     keyword_portfolio = pd.DataFrame({
         'Keyword': keyword_growth_rates.index,
