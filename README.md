@@ -65,9 +65,10 @@ The purpose of this task is to categorize the types of keywords.
 
 ## Pilot experiment result  
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/a77c8c34-130a-42d5-ae5a-9ff34f09e4b6" alt="Untitled (3)" width="600"/>
+    <img src="https://github.com/user-attachments/assets/a77c8c34-130a-42d5-ae5a-9ff34f09e4b6" alt="Untitled (3)" width="1200"/>
 </p>
-</div>
+</div>  
+
 |              | Median              |                  |         | Mean               |                  |         |
 |--------------|---------------------|------------------|---------|--------------------|------------------|---------|
 |              | Degree              | Betweenness       | Share   | Degree             | Betweenness       | Share   |
@@ -75,6 +76,7 @@ The purpose of this task is to categorize the types of keywords.
 | Hot          | 58                  | 55               | 44      | 37                 | 22               | 17      |
 | Mature       | 40                  | 43               | 54      | 42                 | 25               | 40      |
 | Niche        | 58                  | 55               | 44      | 77                 | 94               | 79      |
+
 
 - Among Mean and Median values, using Median as a basis can lead to a more robust distribution of results.
 
