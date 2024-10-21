@@ -61,3 +61,26 @@ The purpose of this task is to categorize the types of keywords.
 - Python 3.x
 - pandas
 - numpy
+
+
+## Pilot experiment result  
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a77c8c34-130a-42d5-ae5a-9ff34f09e4b6" alt="Untitled (3)" width="600"/>
+</p>
+</div>
+|              | Median              |                  |         | Mean               |                  |         |
+|--------------|---------------------|------------------|---------|--------------------|------------------|---------|
+|              | Degree              | Betweenness       | Share   | Degree             | Betweenness       | Share   |
+| Emerging     | 40                  | 43               | 54      | 40                 | 55               | 60      |
+| Hot          | 58                  | 55               | 44      | 37                 | 22               | 17      |
+| Mature       | 40                  | 43               | 54      | 42                 | 25               | 40      |
+| Niche        | 58                  | 55               | 44      | 77                 | 94               | 79      |
+
+- Among Mean and Median values, using Median as a basis can lead to a more robust distribution of results.
+
+- The metric values generated in networks vary depending on the size of the network.
+  - Centrality can vary depending on the search keyword (combination of search terms AND OR conditions), and as a result, the keyword's influence may appear differently in networks other than the one where the search was conducted.
+  - The meaning of the metric changes depending on the search conditions, which affects the interpretation of the labeled data in the visualization.
+
+- Issues with keyword mapping visualization and clustering:
+  - When visualizing keyword metrics, there's often a problem where most keywords cluster together in a quadrant, making it difficult to interpret the scatter plot effectively.
