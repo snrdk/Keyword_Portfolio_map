@@ -86,3 +86,8 @@ The purpose of this task is to categorize the types of keywords.
 
 - Issues with keyword mapping visualization and clustering:
   - When visualizing keyword metrics, there's often a problem where most keywords cluster together in a quadrant, making it difficult to interpret the scatter plot effectively.
+ 
+
+## Conclusion
+- Keywords are more evenly distributed when cut-off at the median value
+- No matter which metric you use, it's hard to solve the overlay problem when visualizing keywords
