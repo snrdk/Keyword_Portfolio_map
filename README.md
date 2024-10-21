@@ -17,7 +17,7 @@ The purpose of this task is to categorize the types of keywords.
 
 1. **Market Share**: The ratio of a specific keyword's frequency to the total frequency of all keywords in each quarter.  
    **Formula**:  
-   $$Share(k_i, t) = \frac{Frequency(keyword_i)}{\sum_{j=1}^{n} Frequency(keyword_j)}$$
+   $$\text{GrowthRate}(k_i, t) = \frac{\text{Value}_t - \text{Value}_{t-1}}{\text{Value}_{t-1}} \times 100$$
 
 2. **Growth Rate**: The percentage change in a keyword's frequency compared to the previous quarter.  
    **Formula**:  
@@ -25,8 +25,8 @@ The purpose of this task is to categorize the types of keywords.
    For frequency-based growth rate, `Value` is defined as the frequency.
 
 ## Notation
-- `keyword_i`: The i-th keyword
-- `t`: The t-th quarter
+- \text{keyword}_{i}: The i-th keyword
+- \text{t}: The t-th quarter
 
   
 ## File Description
