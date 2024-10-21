@@ -13,20 +13,20 @@ This project is a collection of Python scripts used to generate keyword portfoli
 
 The purpose of this task is to categorize the types of keywords. 
 
-## Key Metrics 
-1. **Market Share**: The ratio of a specific keyword's frequency to the total frequency of all keywords in each quarter. 
+## Key Metrics
 
-   Share(k_i, t) = Frequency(keyword_i) / Sum[j=1 to n](Frequency(keyword_j))
+1. **Market Share**: The ratio of a specific keyword's frequency to the total frequency of all keywords in each quarter.  
+   **Formula**:  
+   `Share(k_i, t) = Frequency(keyword_i) / Σ(Frequency(keyword_j), j=1 to n)`
 
-2. **Growth Rate**: The percentage change in a keyword's frequency compared to the previous quarter. 
+2. **Growth Rate**: The percentage change in a keyword's frequency compared to the previous quarter.  
+   **Formula**:  
+   `GrowthRate(k_i, t) = ((Value_t - Value_{t-1}) / Value_{t-1}) × 100`  
+   For frequency-based growth rate, `Value` is defined as the frequency.
 
-   GrowthRate(k_i, t) = (Value_t - Value_(t-1)) / Value_(t-1) * 100
-
-   For frequency-based growth rate, Value is defined as the frequency. 
-
-## Notation 
-- $keyword_i$: The i-th keyword 
-- $t$: The t-th quarter
+## Notation
+- `keyword_i`: The i-th keyword
+- `t`: The t-th quarter
 
   
 ## File Description
